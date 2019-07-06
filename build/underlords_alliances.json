@@ -3268,18 +3268,6 @@
       }
     ]
   },
-  "satyr": {
-    "type": "Race",
-    "levels": [
-      {
-        "id": 20026,
-        "unitcount": 1
-      }
-    ],
-    "color": "192 192 192",
-    "key": "satyr",
-    "heroes": []
-  },
   "assassin": {
     "type": "Class",
     "levels": [
