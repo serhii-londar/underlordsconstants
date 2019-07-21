@@ -601,7 +601,7 @@
       "unit_cost_modifier": -1
     },
     "icon": "cheaper_units",
-    "key": "cheaper_units_in_shopmages_ghost_when_low_health"
+    "key": "cheaper_units_in_shop"
   },
   "extra_damage_per_unit": {
     "id": 10525,
@@ -826,7 +826,7 @@
     "highlight_keywords": "naga",
     "key": "naga_skin"
   },
-  "knight_absorption": {
+  "knights_absorption": {
     "id": 10546,
     "displayName": "dac_item_knights_absorption",
     "description": "dac_item_knights_absorption_desc",
@@ -845,7 +845,7 @@
     ],
     "icon": "knight_absorption",
     "highlight_keywords": "knight",
-    "key": "knight_absorption"
+    "key": "knights_absorption"
   },
   "druids_heal_over_time_on_death": {
     "id": 10547,
