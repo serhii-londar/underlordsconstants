@@ -1,5 +1,6 @@
 {
   "beast": {
+    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -27,6 +28,7 @@
     "key": "beast",
     "heroes": [
       {
+        "hidden": false,
         "abilities": [
           "enchantress_natures_attendants"
         ],
@@ -306,6 +308,7 @@
     ]
   },
   "demon": {
+    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -564,6 +567,7 @@
     ]
   },
   "dragon": {
+    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -726,6 +730,7 @@
     ]
   },
   "dwarf": {
+    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -842,6 +847,7 @@
     ]
   },
   "element": {
+    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -1106,6 +1112,7 @@
     ]
   },
   "elf": {
+    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -1566,6 +1573,7 @@
     ]
   },
   "goblin": {
+    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -1887,6 +1895,7 @@
     ]
   },
   "human": {
+    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -2294,6 +2303,7 @@
     ]
   },
   "naga": {
+    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -2505,6 +2515,7 @@
     ]
   },
   "ogre": {
+    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -2612,6 +2623,7 @@
     ]
   },
   "orc": {
+    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -2813,6 +2825,7 @@
     ]
   },
   "troll": {
+    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -3028,6 +3041,7 @@
     ]
   },
   "undead": {
+    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -3284,6 +3298,7 @@
     ]
   },
   "assassin": {
+    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -3777,6 +3792,7 @@
     ]
   },
   "demonhunter": {
+    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -3906,6 +3922,7 @@
     ]
   },
   "druid": {
+    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -4108,6 +4125,7 @@
     ]
   },
   "hunter": {
+    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -4418,6 +4436,7 @@
     ]
   },
   "knight": {
+    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -4736,6 +4755,7 @@
     ]
   },
   "mage": {
+    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -5095,6 +5115,7 @@
     ]
   },
   "mech": {
+    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -5359,6 +5380,7 @@
     ]
   },
   "shaman": {
+    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -5566,6 +5588,7 @@
     ]
   },
   "warlock": {
+    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -5928,6 +5951,7 @@
     ]
   },
   "warrior": {
+    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -6445,6 +6469,7 @@
     ]
   },
   "megawarrior": {
+    "hidden": true,
     "type": "Class",
     "levels": [
       {
@@ -6461,6 +6486,7 @@
     "heroes": []
   },
   "megaassassin": {
+    "hidden": true,
     "type": "Class",
     "levels": [
       {
@@ -6480,6 +6506,7 @@
     "heroes": []
   },
   "megabloodbound": {
+    "hidden": true,
     "type": "Race",
     "levels": [
       {
@@ -6496,6 +6523,7 @@
     "heroes": []
   },
   "megaelusive": {
+    "hidden": true,
     "type": "Race",
     "levels": [
       {
@@ -6512,6 +6540,7 @@
     "heroes": []
   },
   "megawarlock": {
+    "hidden": true,
     "type": "Class",
     "levels": [
       {
@@ -6535,6 +6564,7 @@
     "heroes": []
   },
   "megascaled": {
+    "hidden": true,
     "type": "Race",
     "levels": [
       {
@@ -6551,6 +6581,7 @@
     "heroes": []
   },
   "megatroll": {
+    "hidden": true,
     "type": "Race",
     "levels": [
       {
@@ -6573,6 +6604,7 @@
     "heroes": []
   },
   "megademon": {
+    "hidden": true,
     "type": "Race",
     "levels": [
       {
