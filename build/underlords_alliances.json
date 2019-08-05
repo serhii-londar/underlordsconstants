@@ -1,6 +1,6 @@
 {
   "beast": {
-    "hidden": false,
+    "hidden": true,
     "type": "Race",
     "levels": [
       {
@@ -569,7 +569,7 @@
     ]
   },
   "element": {
-    "hidden": false,
+    "hidden": true,
     "type": "Race",
     "levels": [
       {
@@ -2104,7 +2104,7 @@
     ]
   },
   "orc": {
-    "hidden": false,
+    "hidden": true,
     "type": "Race",
     "levels": [
       {
@@ -4472,7 +4472,7 @@
     ]
   },
   "mech": {
-    "hidden": false,
+    "hidden": true,
     "type": "Class",
     "levels": [
       {
