@@ -1,6 +1,5 @@
 {
   "beast": {
-    "hidden": true,
     "type": "Race",
     "levels": [
       {
@@ -29,7 +28,6 @@
     "heroes": []
   },
   "demon": {
-    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -47,7 +45,6 @@
     "key": "demon",
     "heroes": [
       {
-        "hidden": false,
         "abilities": [
           "chaos_knight_chaos_bolt"
         ],
@@ -289,7 +286,6 @@
     ]
   },
   "dragon": {
-    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -452,7 +448,6 @@
     ]
   },
   "dwarf": {
-    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -501,7 +496,7 @@
         ],
         "healthRegen": 0,
         "id": 35,
-        "keywords": "dwarf hunter",
+        "keywords": "goblin dwarf hunter",
         "magicResist": 0,
         "maxmana": 100,
         "model": "models/heroes/sniper/sniper.vmdl",
@@ -569,7 +564,6 @@
     ]
   },
   "element": {
-    "hidden": true,
     "type": "Race",
     "levels": [
       {
@@ -593,7 +587,6 @@
     "heroes": []
   },
   "elf": {
-    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -1054,7 +1047,6 @@
     ]
   },
   "goblin": {
-    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -1234,6 +1226,57 @@
       },
       {
         "abilities": [
+          "sniper_assassinate"
+        ],
+        "baseclass": "dac_npc_dwarf",
+        "armor": 5,
+        "attackAnimationPoint": 0.17,
+        "attackRange": 7,
+        "attackRate": [
+          1.6,
+          1.6,
+          1.3
+        ],
+        "damageMin": [
+          125,
+          180,
+          396
+        ],
+        "damageMax": [
+          150,
+          210,
+          432
+        ],
+        "displayName": "dac_hero_name_sniper",
+        "dota_unit_name": "npc_dota_hero_sniper",
+        "draftTier": 3,
+        "goldCost": 3,
+        "health": [
+          450,
+          900,
+          2160
+        ],
+        "healthRegen": 0,
+        "id": 35,
+        "keywords": "goblin dwarf hunter",
+        "magicResist": 0,
+        "maxmana": 100,
+        "model": "models/heroes/sniper/sniper.vmdl",
+        "model_scale": [
+          0.7,
+          0.85,
+          1
+        ],
+        "texturename": "sniper",
+        "soundSet": "Hero_Sniper",
+        "projectile_speed": 3000,
+        "projectile_model": "particles/units/heroes/hero_sniper/sniper_base_attack.vpcf",
+        "movespeed": 285,
+        "healthBarOffset": 10,
+        "key": "sniper"
+      },
+      {
+        "abilities": [
           "tinker_heat_seeking_missile"
         ],
         "armor": 5,
@@ -1376,7 +1419,6 @@
     ]
   },
   "human": {
-    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -1784,7 +1826,6 @@
     ]
   },
   "naga": {
-    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -1905,28 +1946,28 @@
         "abilities": [
           "tidehunter_ravage"
         ],
-        "armor": 5,
+        "armor": 10,
         "attackAnimationPoint": 0.6,
         "attackRange": 1,
         "attackRate": 2,
         "damageMin": [
-          45,
-          90,
-          180
+          60,
+          120,
+          250
         ],
         "damageMax": [
-          55,
-          110,
-          220
+          70,
+          150,
+          300
         ],
         "displayName": "dac_hero_name_tide_hunter",
         "dota_unit_name": "npc_dota_hero_tidehunter",
         "draftTier": 4,
         "goldCost": 4,
         "health": [
-          850,
-          1700,
-          3400
+          1100,
+          2700,
+          5500
         ],
         "healthRegen": 0,
         "id": 53,
@@ -1996,7 +2037,6 @@
     ]
   },
   "ogre": {
-    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -2042,7 +2082,7 @@
         "id": 3,
         "keywords": "ogre mage",
         "magicResist": 0,
-        "maxmana": 100,
+        "maxmana": 0,
         "model": "models/heroes/ogre_magi/ogre_magi.vmdl",
         "model_scale": [
           0.7,
@@ -2104,7 +2144,6 @@
     ]
   },
   "orc": {
-    "hidden": true,
     "type": "Race",
     "levels": [
       {
@@ -2127,7 +2166,6 @@
     "heroes": []
   },
   "troll": {
-    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -2279,68 +2317,70 @@
         "keywords": "troll warlock",
         "magicResist": 0,
         "maxmana": 100,
-        "model": "models/heroes/juggernaut/juggernaut.vmdl",
+        "model": "models/heroes/witchdoctor/witchdoctor.vmdl",
         "model_scale": [
-          0.75,
-          0.8,
-          0.9
+          0.6,
+          0.65,
+          0.75
         ],
-        "texturename": "juggernaut",
-        "soundSet": "Hero_Juggernaut",
+        "texturename": "witch_doctor",
+        "soundSet": "Hero_WitchDoctor",
+        "projectile_speed": 1200,
+        "projectile_model": "particles/units/heroes/hero_witchdoctor/witchdoctor_base_attack.vpcf",
         "movespeed": 300,
-        "healthBarOffset": 10,
-        "key": "juggernaut"
+        "healthBarOffset": -30,
+        "key": "witch_doctor"
       },
       {
         "abilities": [
-          "disruptor_static_storm"
+          "troll_warlord_fervor"
         ],
         "armor": 5,
-        "attackAnimationPoint": 0.4,
-        "attackRange": 4,
-        "attackRate": 1.5,
+        "attackAnimationPoint": 0.3,
+        "attackRange": 3,
+        "attackRate": 1,
         "damageMin": [
-          45,
-          90,
-          180
+          180,
+          360,
+          520
         ],
         "damageMax": [
-          50,
-          100,
-          200
+          200,
+          400,
+          600
         ],
-        "displayName": "dac_hero_name_disruptor",
-        "dota_unit_name": "npc_dota_hero_disruptor",
-        "draftTier": 4,
-        "goldCost": 4,
+        "displayName": "dac_hero_name_troll_warlord",
+        "dota_unit_name": "npc_dota_hero_troll_warlord",
+        "draftTier": 5,
+        "goldCost": 5,
         "health": [
-          700,
-          1400,
-          2800
+          1200,
+          2000,
+          4000
         ],
         "healthRegen": 0,
-        "id": 47,
-        "keywords": "orc shaman warlock",
+        "id": 42,
+        "keywords": "troll warrior",
         "magicResist": 0,
         "maxmana": 100,
-        "model": "models/heroes/disruptor/disruptor.vmdl",
+        "model": "models/heroes/troll_warlord/troll_warlord.vmdl",
         "model_scale": [
-          0.55,
-          0.7,
-          0.85
+          0.6,
+          0.75,
+          0.9
         ],
-        "texturename": "disruptor",
-        "soundSet": "Hero_Disruptor",
+        "texturename": "troll_warlord",
+        "soundSet": "Hero_TrollWarlord",
         "projectile_speed": 1200,
-        "projectile_model": "particles/units/heroes/hero_disruptor/disruptor_base_attack.vpcf",
-        "movespeed": 295,
-        "healthBarOffset": -90,
-        "key": "disruptor"
+        "projectile_model": "particles/units/heroes/hero_troll_warlord/troll_warlord_base_attack.vpcf",
+        "movespeed": 290,
+        "healthBarOffset": -30,
+        "aiPassiveAbility": true,
+        "key": "troll_warlord"
       }
     ]
   },
   "undead": {
-    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -2596,8 +2636,19 @@
       }
     ]
   },
+  "satyr": {
+    "type": "Race",
+    "levels": [
+      {
+        "id": 20026,
+        "unitcount": 1
+      }
+    ],
+    "color": "192 192 192",
+    "key": "satyr",
+    "heroes": []
+  },
   "assassin": {
-    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -3094,7 +3145,6 @@
     ]
   },
   "demonhunter": {
-    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -3228,7 +3278,6 @@
     ]
   },
   "druid": {
-    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -3431,7 +3480,6 @@
     ]
   },
   "hunter": {
-    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -3673,7 +3721,7 @@
         ],
         "healthRegen": 0,
         "id": 35,
-        "keywords": "dwarf hunter",
+        "keywords": "goblin dwarf hunter",
         "magicResist": 0,
         "maxmana": 100,
         "model": "models/heroes/sniper/sniper.vmdl",
@@ -3786,7 +3834,6 @@
     ]
   },
   "knight": {
-    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -4105,7 +4152,6 @@
     ]
   },
   "mage": {
-    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -4160,7 +4206,7 @@
         "id": 3,
         "keywords": "ogre mage",
         "magicResist": 0,
-        "maxmana": 100,
+        "maxmana": 0,
         "model": "models/heroes/ogre_magi/ogre_magi.vmdl",
         "model_scale": [
           0.7,
@@ -4465,7 +4511,6 @@
     ]
   },
   "mech": {
-    "hidden": true,
     "type": "Class",
     "levels": [
       {
@@ -4491,7 +4536,6 @@
     "heroes": []
   },
   "shaman": {
-    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -4602,59 +4646,63 @@
       },
       {
         "abilities": [
-          "gyrocopter_call_down"
+          "arc_warden_tempest_double"
         ],
-        "baseclass": "dac_npc_dwarf",
-        "armor": 15,
-        "attackAnimationPoint": 0.2,
-        "attackRange": 6,
-        "attackRate": 0.9,
+        "baseclass": "dac_npc_arc_warden",
+        "armor": 5,
+        "projectile_speed": 900,
+        "projectile_model": "particles/units/heroes/hero_arc_warden/arc_warden_base_attack.vpcf",
+        "attackAnimationPoint": 0.3,
+        "attackRange": 4,
+        "attackRate": [
+          1,
+          1,
+          1
+        ],
         "damageMin": [
           75,
           150,
           300
         ],
         "damageMax": [
-          80,
-          160,
-          320
+          85,
+          170,
+          350
         ],
-        "displayName": "dac_hero_name_gyrocopter",
-        "dota_unit_name": "npc_dota_hero_gyrocopter",
-        "draftTier": 5,
-        "goldCost": 5,
+        "displayName": "dac_hero_name_arc_warden",
+        "dota_unit_name": "npc_dota_hero_arc_warden",
+        "draftTier": 4,
+        "goldCost": 4,
         "health": [
-          900,
-          1800,
-          3600
+          700,
+          1400,
+          2800
         ],
         "healthRegen": 0,
-        "id": 51,
-        "keywords": "dwarf mech",
-        "magicResist": 0,
-        "maxmana": 100,
-        "model": "models/heroes/gyro/gyro.vmdl",
+        "id": 84,
+        "keywords": "primordial shaman",
+        "magicResist": 5,
+        "maxmana": 0,
+        "model": "models/heroes/arc_warden/arc_warden.vmdl",
         "model_scale": [
-          0.8,
-          0.85,
-          0.95
+          0.66,
+          0.75,
+          0.9
         ],
-        "texturename": "gyrocopter",
-        "soundSet": "Hero_Gyrocopter",
-        "projectile_speed": 3000,
-        "projectile_model": "particles/units/heroes/hero_gyrocopter/gyro_base_attack.vpcf",
-        "useConstantAnimationLayer": true,
-        "movespeed": 315,
-        "healthBarOffset": -35,
-        "key": "gyrocopter"
+        "texturename": "arcwarden",
+        "soundSet": "Hero_ArcWarden",
+        "movespeed": 280,
+        "precache": [],
+        "healthBarOffset": 20,
+        "key": "arc_warden"
       },
       {
         "abilities": [
-          "techies_bomb"
+          "enigma_midnight_pulse"
         ],
-        "armor": 10,
-        "attackAnimationPoint": 0.5,
-        "attackRange": 4,
+        "armor": 5,
+        "attackAnimationPoint": 0.4,
+        "attackRange": 3,
         "attackRate": 1.5,
         "damageMin": [
           45,
@@ -4666,8 +4714,8 @@
           110,
           220
         ],
-        "displayName": "dac_hero_name_techies",
-        "dota_unit_name": "npc_dota_hero_techies",
+        "displayName": "dac_hero_name_enigma",
+        "dota_unit_name": "npc_dota_hero_enigma",
         "draftTier": 5,
         "goldCost": 5,
         "health": [
@@ -4676,29 +4724,27 @@
           4000
         ],
         "healthRegen": 5,
-        "id": 55,
-        "keywords": "goblin mech",
-        "magicResist": 0,
+        "id": 54,
+        "keywords": "primordial shaman",
+        "magicResist": 40,
         "maxmana": 100,
-        "model": "models/heroes/techies/techies.vmdl",
+        "model": "models/heroes/enigma/enigma.vmdl",
         "model_scale": [
-          0.4,
-          0.5,
-          0.6
+          0.55,
+          0.7,
+          0.85
         ],
-        "texturename": "techies",
-        "soundSet": "Hero_Techies",
+        "texturename": "enigma",
+        "soundSet": "Hero_Enigma",
         "projectile_speed": 900,
-        "projectile_model": "particles/units/heroes/hero_techies/techies_base_attack.vpcf",
-        "movespeed": 310,
-        "healthBarOffset": -50,
-        "aiIsMelee": true,
-        "key": "techies"
+        "projectile_model": "particles/units/heroes/hero_enigma/enigma_base_attack.vpcf",
+        "movespeed": 290,
+        "healthBarOffset": -70,
+        "key": "enigma"
       }
     ]
   },
   "warlock": {
-    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -5061,7 +5107,6 @@
     ]
   },
   "warrior": {
-    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -5222,54 +5267,6 @@
       },
       {
         "abilities": [
-          "juggernaut_blade_fury"
-        ],
-        "armor": 5,
-        "attackAnimationPoint": 0.33,
-        "attackRange": 1,
-        "attackRate": [
-          1.1,
-          1,
-          0.8
-        ],
-        "damageMin": [
-          65,
-          140,
-          280
-        ],
-        "damageMax": [
-          70,
-          150,
-          300
-        ],
-        "displayName": "dac_hero_name_juggernaut",
-        "dota_unit_name": "npc_dota_hero_juggernaut",
-        "draftTier": 2,
-        "goldCost": 2,
-        "health": [
-          600,
-          1200,
-          2400
-        ],
-        "healthRegen": 0,
-        "id": 15,
-        "keywords": "brawny warrior",
-        "magicResist": 0,
-        "maxmana": 100,
-        "model": "models/heroes/juggernaut/juggernaut.vmdl",
-        "model_scale": [
-          0.75,
-          0.8,
-          0.9
-        ],
-        "texturename": "juggernaut",
-        "soundSet": "Hero_Juggernaut",
-        "movespeed": 300,
-        "healthBarOffset": 10,
-        "key": "juggernaut"
-      },
-      {
-        "abilities": [
           "slardar_amplify_damage"
         ],
         "armor": 5,
@@ -5355,6 +5352,54 @@
         "movespeed": 280,
         "healthBarOffset": -40,
         "key": "pudge"
+      },
+      {
+        "abilities": [
+          "juggernaut_blade_fury"
+        ],
+        "armor": 5,
+        "attackAnimationPoint": 0.33,
+        "attackRange": 1,
+        "attackRate": [
+          1.1,
+          1,
+          0.8
+        ],
+        "damageMin": [
+          65,
+          140,
+          280
+        ],
+        "damageMax": [
+          70,
+          150,
+          300
+        ],
+        "displayName": "dac_hero_name_juggernaut",
+        "dota_unit_name": "npc_dota_hero_juggernaut",
+        "draftTier": 3,
+        "goldCost": 3,
+        "health": [
+          600,
+          1200,
+          2400
+        ],
+        "healthRegen": 0,
+        "id": 15,
+        "keywords": "brawny warrior",
+        "magicResist": 0,
+        "maxmana": 100,
+        "model": "models/heroes/juggernaut/juggernaut.vmdl",
+        "model_scale": [
+          0.75,
+          0.8,
+          0.9
+        ],
+        "texturename": "juggernaut",
+        "soundSet": "Hero_Juggernaut",
+        "movespeed": 300,
+        "healthBarOffset": 10,
+        "key": "juggernaut"
       },
       {
         "abilities": [
@@ -5448,28 +5493,28 @@
         "abilities": [
           "tidehunter_ravage"
         ],
-        "armor": 5,
+        "armor": 10,
         "attackAnimationPoint": 0.6,
         "attackRange": 1,
         "attackRate": 2,
         "damageMin": [
-          45,
-          90,
-          180
+          60,
+          120,
+          250
         ],
         "damageMax": [
-          55,
-          110,
-          220
+          70,
+          150,
+          300
         ],
         "displayName": "dac_hero_name_tide_hunter",
         "dota_unit_name": "npc_dota_hero_tidehunter",
         "draftTier": 4,
         "goldCost": 4,
         "health": [
-          850,
-          1700,
-          3400
+          1100,
+          2700,
+          5500
         ],
         "healthRegen": 0,
         "id": 53,
@@ -5539,7 +5584,6 @@
     ]
   },
   "megawarrior": {
-    "hidden": true,
     "type": "Class",
     "levels": [
       {
@@ -5556,7 +5600,6 @@
     "heroes": []
   },
   "megaassassin": {
-    "hidden": true,
     "type": "Class",
     "levels": [
       {
@@ -5576,7 +5619,6 @@
     "heroes": []
   },
   "megabloodbound": {
-    "hidden": true,
     "type": "Race",
     "levels": [
       {
@@ -5593,7 +5635,6 @@
     "heroes": []
   },
   "megaelusive": {
-    "hidden": true,
     "type": "Race",
     "levels": [
       {
@@ -5610,7 +5651,6 @@
     "heroes": []
   },
   "megawarlock": {
-    "hidden": true,
     "type": "Class",
     "levels": [
       {
@@ -5634,7 +5674,6 @@
     "heroes": []
   },
   "megascaled": {
-    "hidden": true,
     "type": "Race",
     "levels": [
       {
@@ -5651,7 +5690,6 @@
     "heroes": []
   },
   "megatroll": {
-    "hidden": true,
     "type": "Race",
     "levels": [
       {
@@ -5674,7 +5712,6 @@
     "heroes": []
   },
   "megademon": {
-    "hidden": true,
     "type": "Race",
     "levels": [
       {
@@ -5692,7 +5729,6 @@
     "heroes": []
   },
   "primordial": {
-    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -5963,7 +5999,6 @@
     ]
   },
   "brawny": {
-    "hidden": false,
     "type": "Race",
     "levels": [
       {
@@ -6099,8 +6134,8 @@
         ],
         "displayName": "dac_hero_name_juggernaut",
         "dota_unit_name": "npc_dota_hero_juggernaut",
-        "draftTier": 2,
-        "goldCost": 2,
+        "draftTier": 3,
+        "goldCost": 3,
         "health": [
           600,
           1200,
@@ -6172,7 +6207,6 @@
     ]
   },
   "inventor": {
-    "hidden": false,
     "type": "Class",
     "levels": [
       {
@@ -6437,7 +6471,6 @@
     ]
   },
   "savage": {
-    "hidden": false,
     "type": "Race",
     "levels": [
       {

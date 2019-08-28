@@ -198,10 +198,15 @@
     "type": "support",
     "aiRequiresAbility": true,
     "aiTierOffset": -0.5,
+    "aiAura": true,
     "displayName": "dac_item_refresher_orb",
     "description": "dac_item_refresher_orb_desc",
     "requires_ability": true,
     "cooldown": 65,
+    "mana_restored": 50,
+    "refresh_radius": 1,
+    "ally_cooldown_multiplier": 50,
+    "ally_mana_restored": 25,
     "precache": [
       "particles/items2_fx/refresher.vpcf"
     ],
@@ -490,7 +495,7 @@
     "icon": "bloodthorn",
     "key": "bloodthorn"
   },
-  "pipe_of_insight": {
+  "pipe": {
     "id": 10035,
     "tier": 4,
     "type": "defensive",
@@ -507,7 +512,7 @@
       "particles/items2_fx/pipe_of_insight.vpcf"
     ],
     "icon": "pipe_of_insight",
-    "key": "pipe_of_insight"
+    "key": "pipe"
   },
   "bloodbound_hat": {
     "id": 10036,
@@ -626,7 +631,7 @@
     "icon": "better_units",
     "key": "better_units_in_shop"
   },
-  "additional_unit_cap_in_shop": {
+  "additional_unit_cap": {
     "id": 10523,
     "displayName": "dac_item_additional_unit_cap_in_shop",
     "description": "dac_item_additional_unit_cap_in_shop_desc",
@@ -637,9 +642,9 @@
       "unit_cap_modifier": 1
     },
     "icon": "add_unit_cap",
-    "key": "additional_unit_cap_in_shop"
+    "key": "additional_unit_cap"
   },
-  "cheaper_units_in_shop": {
+  "cheaper_units": {
     "id": 10524,
     "displayName": "dac_item_cheaper_units_in_shop",
     "description": "dac_item_cheaper_units_in_shop_desc",
@@ -650,7 +655,7 @@
       "unit_cost_modifier": -1
     },
     "icon": "cheaper_units",
-    "key": "cheaper_units_in_shop"
+    "key": "cheaper_units"
   },
   "extra_damage_per_unit": {
     "id": 10525,
@@ -912,7 +917,7 @@
     "highlight_keywords": "naga",
     "key": "naga_skin"
   },
-  "knights_absorption": {
+  "knight_absorption": {
     "id": 10546,
     "displayName": "dac_item_knights_absorption",
     "description": "dac_item_knights_absorption_desc",
@@ -940,7 +945,7 @@
     ],
     "icon": "knight_absorption",
     "highlight_keywords": "knight",
-    "key": "knights_absorption"
+    "key": "knight_absorption"
   },
   "druids_heal_over_time_on_death": {
     "id": 10547,
@@ -1063,7 +1068,7 @@
     "highlight_keywords": "dragon",
     "key": "dragons_hoard"
   },
-  "mages_ghost_on_low_health": {
+  "mages_ghost_when_low_health": {
     "id": 10552,
     "displayName": "dac_item_mages_ghost_on_low_health",
     "description": "dac_item_mages_ghost_on_low_health_desc",
@@ -1086,7 +1091,7 @@
     ],
     "icon": "mages_ghost",
     "highlight_keywords": "mage",
-    "key": "mages_ghost_on_low_health"
+    "key": "mages_ghost_when_low_health"
   },
   "elementals_spawn_eidolons": {
     "id": 10553,
