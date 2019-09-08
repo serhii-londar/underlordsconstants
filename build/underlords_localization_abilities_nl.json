@@ -222,6 +222,6 @@
   "dac_ability_barricade_aura_description": "Beschermt nabije eenheden en is immuun voor spreuken.",
   "dac_ability_barricade_aura_lore": "",
   "dac_ability_target_dummy_taunt": "Bespotting",
-  "dac_ability_target_dummy_taunt_description": "Target dummy taunts.",
+  "dac_ability_target_dummy_taunt_description": "Het oefendoelwit bespot vijanden.",
   "dac_ability_target_dummy_taunt_lore": ""
 }
