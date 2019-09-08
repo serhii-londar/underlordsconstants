@@ -645,7 +645,7 @@
     "icon": "add_unit_cap",
     "key": "additional_unit_cap"
   },
-  "cheaper_units": {
+  "cheaper_units_in_shop": {
     "id": 10524,
     "displayName": "dac_item_cheaper_units_in_shop",
     "description": "dac_item_cheaper_units_in_shop_desc",
@@ -655,8 +655,8 @@
     "global": {
       "unit_cost_modifier": -1
     },
-    "icon": "cheaper_units",
-    "key": "cheaper_units"
+    "icon": "cheaper_units_in_shop",
+    "key": "cheaper_units_in_shop"
   },
   "extra_damage_per_unit": {
     "id": 10525,
@@ -919,7 +919,7 @@
     "highlight_keywords": "naga",
     "key": "naga_skin"
   },
-  "knight_absorption": {
+  "knights_absorption": {
     "id": 10546,
     "displayName": "dac_item_knights_absorption",
     "description": "dac_item_knights_absorption_desc",
@@ -929,7 +929,7 @@
     "aiSynergyKeyword": "Knight",
     "max_allowed": 1,
     "global": {
-      "knight_absorption": {
+      "knights_absorption": {
         "physical_reduction": [
           7.5,
           10,
@@ -947,7 +947,7 @@
     ],
     "icon": "knight_absorption",
     "highlight_keywords": "knight",
-    "key": "knight_absorption"
+    "key": "knights_absorption"
   },
   "druids_heal_over_time_on_death": {
     "id": 10547,
@@ -1070,7 +1070,7 @@
     "highlight_keywords": "dragon",
     "key": "dragons_hoard"
   },
-  "mages_ghost_when_low_health": {
+  "mages_ghost_on_low_health": {
     "id": 10552,
     "displayName": "dac_item_mages_ghost_on_low_health",
     "description": "dac_item_mages_ghost_on_low_health_desc",
@@ -1080,7 +1080,7 @@
     "aiSynergyKeyword": "Mage",
     "max_allowed": 1,
     "global": {
-      "mages_ghost_when_low_health": {
+      "mages_ghost_on_low_health": {
         "health_percent_trigger": [
           10,
           20,
@@ -1093,7 +1093,7 @@
     ],
     "icon": "mages_ghost",
     "highlight_keywords": "mage",
-    "key": "mages_ghost_when_low_health"
+    "key": "mages_ghost_on_low_health"
   },
   "elementals_spawn_eidolons": {
     "id": 10553,
