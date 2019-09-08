@@ -495,7 +495,7 @@
     "icon": "bloodthorn",
     "key": "bloodthorn"
   },
-  "pipe": {
+  "pipe_of_insight": {
     "id": 10035,
     "tier": 4,
     "type": "defensive",
@@ -512,7 +512,7 @@
       "particles/items2_fx/pipe_of_insight.vpcf"
     ],
     "icon": "pipe_of_insight",
-    "key": "pipe"
+    "key": "pipe_of_insight"
   },
   "bloodbound_hat": {
     "id": 10036,
@@ -632,7 +632,7 @@
     "icon": "better_units",
     "key": "better_units_in_shop"
   },
-  "additional_unit_cap": {
+  "additional_unit_cap_in_shop": {
     "id": 10523,
     "displayName": "dac_item_additional_unit_cap_in_shop",
     "description": "dac_item_additional_unit_cap_in_shop_desc",
@@ -643,7 +643,7 @@
       "unit_cap_modifier": 1
     },
     "icon": "add_unit_cap",
-    "key": "additional_unit_cap"
+    "key": "additional_unit_cap_in_shop"
   },
   "cheaper_units_in_shop": {
     "id": 10524,
