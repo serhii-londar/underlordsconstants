@@ -2024,7 +2024,8 @@
   },
   "templar_assassin": {
     "abilities": [
-      "templar_assassin_refraction"
+      "templar_assassin_refraction",
+      "templar_assassin_meld"
     ],
     "baseclass": "dac_npc_assassin",
     "armor": 5,
@@ -2809,9 +2810,9 @@
     "draftTier": 4,
     "goldCost": 4,
     "health": [
-      700,
-      1400,
-      2800
+      600,
+      1200,
+      2400
     ],
     "healthRegen": 0,
     "id": 84,

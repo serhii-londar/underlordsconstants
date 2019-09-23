@@ -997,7 +997,8 @@
       },
       {
         "abilities": [
-          "templar_assassin_refraction"
+          "templar_assassin_refraction",
+          "templar_assassin_meld"
         ],
         "baseclass": "dac_npc_assassin",
         "armor": 5,
@@ -2748,6 +2749,11 @@
       300,
       400
     ],
+    "heal_damp": [
+      50,
+      100
+    ],
+    "duration": 3,
     "blind_duration": 2,
     "blind_chance": 50,
     "mana_gain_reduction": 50,
@@ -3163,7 +3169,8 @@
       },
       {
         "abilities": [
-          "templar_assassin_refraction"
+          "templar_assassin_refraction",
+          "templar_assassin_meld"
         ],
         "baseclass": "dac_npc_assassin",
         "armor": 5,
@@ -4713,9 +4720,9 @@
         "draftTier": 4,
         "goldCost": 4,
         "health": [
-          700,
-          1400,
-          2800
+          600,
+          1200,
+          2400
         ],
         "healthRegen": 0,
         "id": 84,
@@ -4817,8 +4824,8 @@
     ],
     "lifesteal_pct": [
       50,
-      80,
-      130
+      70,
+      100
     ],
     "duration": 2,
     "color": "228 110 213",
@@ -5982,9 +5989,9 @@
         "draftTier": 4,
         "goldCost": 4,
         "health": [
-          700,
-          1400,
-          2800
+          600,
+          1200,
+          2400
         ],
         "healthRegen": 0,
         "id": 84,
