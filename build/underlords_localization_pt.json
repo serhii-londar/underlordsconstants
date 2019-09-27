@@ -689,7 +689,7 @@
   "dac_item_barricade_lore": "Quando não consegues achar abrigo, tens de trazê-lo contigo. - <i>Zenok, contrabandista de Torre Branca</i>",
   "dac_name_tombstone": "Lápide",
   "dac_item_tombstone": "Lápide",
-  "dac_item_tombstone_desc": "Heróis aliados e inimigos que morrerem dentro de até 2 espaços de distância da lápide são transformados em zombies.",
+  "dac_item_tombstone_desc": "Heróis aliados e inimigos que morrerem num espaço adjacente à lápide são transformados em zombies.",
   "dac_item_tombstone_lore": "Finalmente esta pilha de cadáveres vai servir para alguma coisa. - <i>Zenok, contrabandista de Torre Branca</i>",
   "dac_name_tombstone_zombie": "Zombie",
   "dac_name_target_dummy": "Saco de Pancada",
