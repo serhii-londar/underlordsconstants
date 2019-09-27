@@ -605,6 +605,7 @@
   },
   "summoning_stone": {
     "id": 10500,
+    "disabled": true,
     "displayName": "dac_item_summoning_stone",
     "description": "dac_item_summoning_stone_desc",
     "tier": 2,
@@ -655,7 +656,7 @@
     "global": {
       "unit_cost_modifier": -1
     },
-    "icon": "cheaper_units_in_shop",
+    "icon": "cheaper_units",
     "key": "cheaper_units_in_shop"
   },
   "extra_damage_per_unit": {
