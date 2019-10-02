@@ -314,6 +314,34 @@
     ],
     "iconName": "viper_viper_strike"
   },
+  "viper_nethertoxin": {
+    "maxLevel": 3,
+    "castPoint": 0.5,
+    "castAnimation": "ACT_DOTA_CAST_ABILITY_4",
+    "cooldown": 5,
+    "manaCost": 50,
+    "radius": [
+      0,
+      0,
+      0
+    ],
+    "damage": [
+      50,
+      100,
+      150
+    ],
+    "duration": 5,
+    "animationlength": 1.2,
+    "damageType": "#DAC_InGame_DamageType_Magical",
+    "precache": [
+      "particles/units/heroes/hero_viper/viper_nethertoxin_dac.vpcf",
+      "particles/units/heroes/hero_viper/viper_nethertoxin_dac_bubbles.vpcf",
+      "particles/units/heroes/hero_viper/viper_nethertoxin_dac_goo.vpcf",
+      "particles/units/heroes/hero_viper/viper_nethertoxin_dac_pools.vpcf",
+      "particles/units/heroes/hero_viper/viper_nethertoxin_dac_vapors.vpcf"
+    ],
+    "iconName": "viper_nethertoxin"
+  },
   "phantom_assassin_coup_de_grace": {
     "maxLevel": 3,
     "crit_chance": [
@@ -1466,9 +1494,9 @@
       6
     ],
     "projectile_damage": [
-      25,
-      50,
-      100
+      30,
+      60,
+      120
     ],
     "tick_damage": [
       10,
@@ -1479,7 +1507,7 @@
     "tick_interval": 3,
     "movement_slow": 50,
     "attack_slow": 25,
-    "ability_range": 3,
+    "ability_range": 5,
     "projectile_width": 64,
     "projectile_range": 512,
     "projectile_speed": 800,

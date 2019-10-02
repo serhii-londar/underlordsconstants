@@ -349,12 +349,11 @@
       },
       {
         "abilities": [
-          "viper_viper_strike"
+          "viper_nethertoxin"
         ],
         "extra_abilities": [
           "viper_corrosive_skin"
         ],
-        "baseclass": "dac_npc_assassin",
         "armor": 5,
         "attackAnimationPoint": 0.33,
         "attackRange": 3,
@@ -379,7 +378,7 @@
           3000
         ],
         "id": 37,
-        "keywords": "dragon assassin",
+        "keywords": "naga dragon",
         "magicResist": 20,
         "maxmana": 100,
         "model": "models/heroes/viper/viper.vmdl",
@@ -2000,6 +1999,54 @@
       },
       {
         "abilities": [
+          "viper_nethertoxin"
+        ],
+        "extra_abilities": [
+          "viper_corrosive_skin"
+        ],
+        "armor": 5,
+        "attackAnimationPoint": 0.33,
+        "attackRange": 3,
+        "attackRate": 1,
+        "damageMin": [
+          50,
+          100,
+          240
+        ],
+        "damageMax": [
+          60,
+          120,
+          360
+        ],
+        "displayName": "dac_hero_name_viper",
+        "dota_unit_name": "npc_dota_hero_viper",
+        "draftTier": 3,
+        "goldCost": 3,
+        "health": [
+          550,
+          1100,
+          3000
+        ],
+        "id": 37,
+        "keywords": "naga dragon",
+        "magicResist": 20,
+        "maxmana": 100,
+        "model": "models/heroes/viper/viper.vmdl",
+        "model_scale": [
+          0.45,
+          0.6,
+          0.75
+        ],
+        "texturename": "viper",
+        "soundSet": "Hero_Viper",
+        "projectile_speed": 1200,
+        "projectile_model": "particles/units/heroes/hero_viper/viper_base_attack.vpcf",
+        "movespeed": 275,
+        "healthBarOffset": -40,
+        "key": "viper"
+      },
+      {
+        "abilities": [
           "tidehunter_ravage"
         ],
         "armor": 10,
@@ -3067,55 +3114,6 @@
         "healthBarOffset": -20,
         "aiPassiveAbility": true,
         "key": "slark"
-      },
-      {
-        "abilities": [
-          "viper_viper_strike"
-        ],
-        "extra_abilities": [
-          "viper_corrosive_skin"
-        ],
-        "baseclass": "dac_npc_assassin",
-        "armor": 5,
-        "attackAnimationPoint": 0.33,
-        "attackRange": 3,
-        "attackRate": 1,
-        "damageMin": [
-          50,
-          100,
-          240
-        ],
-        "damageMax": [
-          60,
-          120,
-          360
-        ],
-        "displayName": "dac_hero_name_viper",
-        "dota_unit_name": "npc_dota_hero_viper",
-        "draftTier": 3,
-        "goldCost": 3,
-        "health": [
-          550,
-          1100,
-          3000
-        ],
-        "id": 37,
-        "keywords": "dragon assassin",
-        "magicResist": 20,
-        "maxmana": 100,
-        "model": "models/heroes/viper/viper.vmdl",
-        "model_scale": [
-          0.45,
-          0.6,
-          0.75
-        ],
-        "texturename": "viper",
-        "soundSet": "Hero_Viper",
-        "projectile_speed": 1200,
-        "projectile_model": "particles/units/heroes/hero_viper/viper_base_attack.vpcf",
-        "movespeed": 275,
-        "healthBarOffset": -40,
-        "key": "viper"
       },
       {
         "abilities": [
@@ -6585,18 +6583,10 @@
         "affects_all_allies_with_keyword": true
       }
     ],
-    "dot_damage": [
-      5,
-      10,
+    "bonus_damage_per_attack": [
+      4,
+      8,
       15
-    ],
-    "dot_duration": [
-      3,
-      3,
-      3
-    ],
-    "precache": [
-      "particles/generic_gameplay/generic_bleed.vpcf"
     ],
     "color": "178 65 26",
     "key": "savage",
