@@ -123,7 +123,7 @@
   "dac_ability_dragon_knight_elder_dragon_form_description": "<i>由龙族联盟解锁</i>\n被动：战斗开始时，龙骑士变身成为三种古龙形态之一，移动速度提升 30%，攻击伤害提高 [50/100/150]，并获得新能力。\n\n碧龙：\\n攻击时造成每秒 [30/30/30] 毒性伤害，持续 [5/5/5] 秒。\n\n赤龙：\\n除了对敌人造成毒性伤害外，攻击时对目标周围 1 格内的所有敌方单位造成 50% 伤害。\n\n苍龙：\\n除了对敌人造成毒性伤害外，攻击时使目标 1 格内的敌方单位的移动速度降低 -30%，攻击速度降低 -30%，持续 [3/3/3] 秒。",
   "dac_ability_dragon_knight_elder_dragon_form_lore": "卡登对你赞不绝口。希望他说得没错。- <i>龙牢的朋友阿任</i>",
   "dac_ability_enchantress_natures_attendants": "自然之助",
-  "dac_ability_enchantress_natures_attendants_description": "魅惑魔女召唤一群共 [3/5/7] 个小精灵治疗周围最多 4 格内的所有友军。\n\n友军每 1.5 秒恢复 25 生命值，持续 11 秒。",
+  "dac_ability_enchantress_natures_attendants_description": "魅惑魔女召唤一群共 [3/5/7] 个小精灵治疗周围最多 4 格内的所有友军。\n\n友军每 1.5 秒恢复 40 生命值，持续 11 秒。",
   "dac_ability_enchantress_natures_attendants_lore": "她在白色尖塔活不了一天。一天都不行！- <i>哈伯根小看对手</i>",
   "dac_ability_bounty_hunter_shuriken_toss": "投掷飞镖",
   "dac_ability_bounty_hunter_shuriken_toss_description": "赏金猎人向一个敌方单位掷出一枚致命的飞镖，对目标造成 [300/500/700] 伤害和短暂眩晕。",

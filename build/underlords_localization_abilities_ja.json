@@ -123,7 +123,7 @@
   "dac_ability_dragon_knight_elder_dragon_form_description": "<i>ドラゴンアライアンスによってアンロック</i>\nパッシブ：戦闘開始時に、ドラゴンナイトは3種類の強力なエルダードラゴンの姿に変化し、移動速度が30%上昇し、[50/100/150]攻撃ダメージボーナスと、新たな能力を得る。\n\nグリーンドラゴン：\\n[5/5/5]秒間、毎秒[30/30/30]の毒ダメージを通常攻撃に追加。\n\nレッドドラゴン：\\n敵への毒攻撃に加え、標的の1マス以内にいるすべての敵ユニットに50%のダメージを与える。\n\nブルードラゴン：\\n敵への毒攻撃に加え、[3/3/3]秒間、1マス以内の敵ユニットの移動速度を-30%、攻撃速度を-30%下げる。",
   "dac_ability_dragon_knight_elder_dragon_form_lore": "ケイデンがあなたのことを褒めていたけど、彼の称賛に値することを祈るわ。— <i>レン、ドラゴンホールドの友</i>",
   "dac_ability_enchantress_natures_attendants": "森のお供たち",
-  "dac_ability_enchantress_natures_attendants_description": "エンチャントレスはウィスプ[3/5/7]体からなる群れを召喚し、自身とその4マス以内の味方ユニットを回復する。\n\n効果は11秒間持続し、味方のヘルスが1.5秒ごとに25回復する。",
+  "dac_ability_enchantress_natures_attendants_description": "エンチャントレスはウィスプ[3/5/7]体からなる群れを召喚し、自身とその4マス以内の味方ユニットを回復する。\n\n効果は11秒間持続し、味方のヘルスが1.5秒ごとに40回復する。",
   "dac_ability_enchantress_natures_attendants_lore": "彼女はホワイトスパイアじゃ1日も持たないだろうね。たったの1日もだ。— <i>敵を甘く見るホブゲン</i>",
   "dac_ability_bounty_hunter_shuriken_toss": "手裏剣投げ",
   "dac_ability_bounty_hunter_shuriken_toss_description": "バウンティーハンターは敵ユニットに[300/500/700]ダメージとミニスタンを与える危険な手裏剣を投げつける。",

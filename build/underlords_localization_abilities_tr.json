@@ -123,7 +123,7 @@
   "dac_ability_dragon_knight_elder_dragon_form_description": "<i>EJDERHA İTTİFAKI İLE AÇILIR</i>\nPASİF: Savaşın başında Ejderha Şövalyesi üç güçlü kadim ejderha biçimden birine bürünerek hareket hızını %30, saldırı hızını da [50/100/150] artırır ve yeni güçlere kavuşur.\n\nYeşil Ejderha:\\nSaldırılar [5/5/5] saniye boyunca saniye başına [30/30/30] zehir hasarı verir.\n\nKızıl Ejderha:\\n Düşmanları zehirlemenin yanında, saldırılar hedefin 1 hücre çevresindeki tüm düşman birimlere %50 hasar verir.\n\nMavi Ejderha:\\nDüşmanları zehirlemenin yanında, saldırılar [3/3/3] saniye boyunca 1 hücre çevresindeki düşman birimlerin hareket hızını %-30, saldırı hızını %-30 azaltır.",
   "dac_ability_dragon_knight_elder_dragon_form_lore": "Kaden seni çok övdü, umarım övgüleri boşa çıkarmazsın. - <i>Ejderha Kalesi'nin Dostu Wren</i>",
   "dac_ability_enchantress_natures_attendants": "Doğanın Lütufları",
-  "dac_ability_enchantress_natures_attendants_description": "Ahu, 4 hücre mesafesindeki bütün dostları iyileştiren [3/5/7] peri çağırır.\n\n11 saniye boyunca dostları her 1.5 saniyede bir 25 iyileştirir.",
+  "dac_ability_enchantress_natures_attendants_description": "Ahu, 4 hücre mesafesindeki bütün dostları iyileştiren [3/5/7] peri çağırır.\n\n11 saniye boyunca dostları her 1.5 saniyede bir 40 iyileştirir.",
   "dac_ability_enchantress_natures_attendants_lore": "Beyaz Kule'de bir gün bile dayanamaz. Ne diyorum bak, sadece bir gün. - <i>Hobgen rakibini küçümserken</i>",
   "dac_ability_bounty_hunter_shuriken_toss": "Şiriken Fırlatma",
   "dac_ability_bounty_hunter_shuriken_toss_description": "Ödül Avcısı bir düşman birimine ölümcül bir şiriken fırlatır, hedefe [300/500/700] hasar verir ve kısa süreliğine sersemletir.",

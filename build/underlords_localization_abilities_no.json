@@ -123,7 +123,7 @@
   "dac_ability_dragon_knight_elder_dragon_form_description": "<i>LÅST OPP AV DRAGEALLIANSEN</i>\nPASSIV: I starten av striden skaper Drageridderen seg om til én av tre kraftige urdrager, noe som øker bevegelseshastigheten med 30%, angrepsskaden med [50/100/150] og gir ham nye krefter.\n\nGrønn drage:\\nAngrep gjør [30/30/30] giftskade per sekund i [5/5/5] sekunder.\n\nRød drage:\\nI tillegg til å forgifte fiender, skader angrep alle fiendtlige enheter 1 rute unna målet med 50% skade.\n\nBlå drage:\\nI tillegg til å forgifte fiender, sakker angrep bevegelseshastighet med -30% og angrepshastighet med -30% på fiendtlige enheter 1 rute unna målet i [3/3/3] sekunder.",
   "dac_ability_dragon_knight_elder_dragon_form_lore": "Kaden har sagt mye bra om deg, la oss håpe at rosen er velfortjent. – <i>Wren, dragevenn</i>",
   "dac_ability_enchantress_natures_attendants": "Skogens hjelpere",
-  "dac_ability_enchantress_natures_attendants_description": "Skogkjerringa kaller på en sky av [3/5/7] feer, som helbreder alle allierte opptil 4 ruter unna.\n\nAllierte helbredes i 11 sekunder med 25 helse hvert 1.5. sekund.",
+  "dac_ability_enchantress_natures_attendants_description": "Skogkjerringa kaller på en sky av [3/5/7] feer, som helbreder alle allierte opptil 4 ruter unna.\n\nAllierte helbredes i 11 sekunder med 40 helse hvert 1.5. sekund.",
   "dac_ability_enchantress_natures_attendants_lore": "Hun kommer ikke til å overleve en dag i Kvitspiret. Ikke. En. Eneste. Dag. – <i>Hobgen undervurderer motstanderen</i>",
   "dac_ability_bounty_hunter_shuriken_toss": "Kastestjerne",
   "dac_ability_bounty_hunter_shuriken_toss_description": "Dusørjegeren kaster en dødelig kastestjerne på en fiendtlig enhet, noe som gjør [300/500/700] skade og minilammer målet.",

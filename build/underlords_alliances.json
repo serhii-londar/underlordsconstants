@@ -380,7 +380,7 @@
         "id": 37,
         "keywords": "naga dragon",
         "magicResist": 20,
-        "maxmana": 100,
+        "maxmana": 50,
         "model": "models/heroes/viper/viper.vmdl",
         "model_scale": [
           0.45,
@@ -2030,7 +2030,7 @@
         "id": 37,
         "keywords": "naga dragon",
         "magicResist": 20,
-        "maxmana": 100,
+        "maxmana": 50,
         "model": "models/heroes/viper/viper.vmdl",
         "model_scale": [
           0.45,
@@ -6584,9 +6584,9 @@
       }
     ],
     "bonus_damage_per_attack": [
-      4,
-      8,
-      15
+      7,
+      15,
+      25
     ],
     "color": "178 65 26",
     "key": "savage",
