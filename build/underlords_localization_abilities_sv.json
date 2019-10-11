@@ -123,7 +123,7 @@
   "dac_ability_dragon_knight_elder_dragon_form_description": "<i>UPPLÅST AV DRAKALLIANSEN</i>\nPASSIV: I början av striden tar Dragon Knight skepnaden av en av tre kraftfulla drakar, vilket ökar hans förflyttningshastighet med 30 % och attackskada med [50/100/150] och ger honom nya krafter.\n\nGrön drake:\\n Attacker gör [30/30/30] giftskada per sekund i [5/5/5] sekunder.\n\nRöd drake:\\nAttacker skadar alla fiendeenheter inom 1 rutor runtom målet med 50 % skada, och förgiftar även målen.\n\nBlå drake:\\nSaktar ned förflyttningshastighet med -30 % och attackhastighet med -30 % hos fiendeenheter inom 1 rutor i [3/3/3] sekunder, och förgiftar även målen.",
   "dac_ability_dragon_knight_elder_dragon_form_lore": "Kaden talade mycket om dig, låt oss hoppas att hans beröm är välförtjänt. – <i>Wren, vän med Drakfästet</i>",
   "dac_ability_enchantress_natures_attendants": "Nature's Attendants",
-  "dac_ability_enchantress_natures_attendants_description": "Enchantress framkallar ett moln av irrbloss som helar alla allierade inom 4 rutor.\\n\\nAllierade helas i 11 sekunder med 25 HP var 1.5 sekund.",
+  "dac_ability_enchantress_natures_attendants_description": "Enchantress framkallar ett moln av irrbloss som helar alla allierade inom 4 rutor.\\n\\nAllierade helas i 11 sekunder med 40 HP var 1.5 sekund.",
   "dac_ability_enchantress_natures_attendants_lore": "Hon kommer inte överleva en dag i White Spire. Inte. En. Dag. – <i>Hobgen underskattar sina motståndare</i>",
   "dac_ability_bounty_hunter_shuriken_toss": "Shuriken Toss",
   "dac_ability_bounty_hunter_shuriken_toss_description": "Bounty Hunter slungar en dödlig kaststjärna mot en fiendeenhet vilket gör [300/500/700] skada och lamslår målet ögonblickligt.",

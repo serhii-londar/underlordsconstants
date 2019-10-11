@@ -123,7 +123,7 @@
   "dac_ability_dragon_knight_elder_dragon_form_description": "<i>LÅST OP MED DRAGEALLIANCEN</i>\nPASSIV: Ved starten af kampen ændrer Drageridderen sig til en af tre magtfulde urdrager og øger sin bevægelseshastighed med 30% og angrebshastighed med [50/100/150] og får nye kræfter.\n\nGrøn Drage:\\nAngreb giver [30/30/30] giftskade pr. sekund i [5/5/5] sek.\n\nRød Drage:\\nHans angreb forgifter fjender og skader alle fjendtlige enheder, som er 1 felt fra målet, med 50% skade.\n\nBlå Drage:\\nHans angreb forgifter fjender og reducerer bevægelseshastigheden med -30% og angrebshastigheden med -30% hos fjendtlige enheder, som er 1 1 felt fra målet, i [3/3/3] sek.",
   "dac_ability_dragon_knight_elder_dragon_form_lore": "Kaden har priset dig. Lad os håbe, at rosen er velfortjent. <i>&#8211; Wren, drageven</i>",
   "dac_ability_enchantress_natures_attendants": "Naturens Opsynsmænd",
-  "dac_ability_enchantress_natures_attendants_description": "Forførersken hidkalder en sky af [3/5/7] feer, som heler alle allierede enheder op til 4 felter væk.\n\nI 11 sek. heler allierede 25 helbred hvert 1.5 sek.",
+  "dac_ability_enchantress_natures_attendants_description": "Forførersken hidkalder en sky af [3/5/7] feer, som heler alle allierede enheder op til 4 felter væk.\n\nI 11 sek. heler allierede 40 helbred hvert 1.5 sek.",
   "dac_ability_enchantress_natures_attendants_lore": "Hun holder ikke en dag i Det Hvide Spir. Ikke. En. Eneste. Dag. <i>&#8211; Hobgen undervurderer sin modstander</i>",
   "dac_ability_bounty_hunter_shuriken_toss": "Kast Shuriken",
   "dac_ability_bounty_hunter_shuriken_toss_description": "Dusørjægeren slynger en dødelig shuriken mod en fjendtlig enhed og giver [300/500/700] skade og mini-lammer målet.",

@@ -123,7 +123,7 @@
   "dac_ability_dragon_knight_elder_dragon_form_description": "<i>由龍族特性解鎖</i>\n被動：戰鬥開始時，龍騎士能夠變身成為三種不同的真龍形態之一，隨著化身為龍，移動速度會提升 30%、攻擊傷害提升 [50/100/150]，並獲得新能力。\n\n腐蝕龍息：\\n攻擊每秒造成 [30/30/30] 毒素傷害，持續 [5/5/5] 秒。\n\n濺燒龍息：\\n除了對敵方單位造成毒性傷害以外，攻擊時對目標周圍 1 格內的敵方單位造成 50% 傷害。\n\n寒霜龍息：\\n除了對敵方單位造成毒性傷害以外，使目標周圍 1 格內的敵方單位的移動速度降低 -30% 且攻擊速度降低 -30%，持續 [3/3/3] 秒。",
   "dac_ability_dragon_knight_elder_dragon_form_lore": "卡登對你讚譽有加，希望你不是徒有虛名。- <i>龍牢之友阿任</i>",
   "dac_ability_enchantress_natures_attendants": "自然之助",
-  "dac_ability_enchantress_natures_attendants_description": "魅惑魔女召喚一群共 [3/5/7] 個小精靈治癒周圍 4 格內的所有友方單位。\n\n友方單位每 1.5 秒恢復 25 生命，持續 11 秒。",
+  "dac_ability_enchantress_natures_attendants_description": "魅惑魔女召喚一群共 [3/5/7] 個小精靈治癒周圍 4 格內的所有友方單位。\n\n友方單位每 1.5 秒恢復 40 生命，持續 11 秒。",
   "dac_ability_enchantress_natures_attendants_lore": "她在白色尖塔撐不了一天的。一天，都，不行。- <i>哈伯根低估了對手</i>",
   "dac_ability_bounty_hunter_shuriken_toss": "投擲手裏劍",
   "dac_ability_bounty_hunter_shuriken_toss_description": "賞金獵人向一個敵方單位擲出一枚手裏劍，對目標造成 [300/500/700] 傷害和短暫暈眩。",

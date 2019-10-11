@@ -123,7 +123,7 @@
   "dac_ability_dragon_knight_elder_dragon_form_description": "<i>용 동맹으로 해제됨</i>\n지속 효과: 전투 시작 시 용기사가 강력한 3가지 고룡으로 변합니다. 고룡 형상에서는 이동 속도가 30%, 공격력이 [50/100/150] 증가하며 새로운 능력을 얻습니다.\n\n녹룡:\\n공격 시 [5/5/5]초 동안 [30/30/30]의 독 피해를 줍니다.\n\n적룡:\\n적에게 독 피해를 주는 동시에, 공격 시 대상으로부터 1칸 안의 모든 적 유닛에게 50%의 피해를 줍니다.\n\n청룡:\\n적에게 독 피해를 주는 동시에, 공격 시 1칸 안의 적 유닛에게 [3/3/3]초 동안 이동 속도 -30% 및 공격 속도 -30% 둔화 효과를 줍니다.",
   "dac_ability_dragon_knight_elder_dragon_form_lore": "카덴이 당신을 극구 칭찬하더군요. 그 칭찬이 괜한 말이 아니길 빌겠어요. - <i>용 요새의 친구 렌</i>",
   "dac_ability_enchantress_natures_attendants": "자연의 조력자",
-  "dac_ability_enchantress_natures_attendants_description": "요술사가 최대 4칸 안의 모든 아군을 치유하는 [3/5/7]마리의 위습 무리를 소환합니다.\n\n11초 동안, 아군은 1.5초 마다 25의 체력을 회복합니다.",
+  "dac_ability_enchantress_natures_attendants_description": "요술사가 최대 4칸 안의 모든 아군을 치유하는 [3/5/7]마리의 위습 무리를 소환합니다.\n\n11초 동안, 아군은 1.5초 마다 40의 체력을 회복합니다.",
   "dac_ability_enchantress_natures_attendants_lore": "하얀 첨탑에 가면 하루도 못 버틸걸. 단. 하루도. - <i>홉겐이 상대방을 얕잡아 보며 하는 말 </i>",
   "dac_ability_bounty_hunter_shuriken_toss": "수리검 투척",
   "dac_ability_bounty_hunter_shuriken_toss_description": "현상금 사냥꾼이 적 유닛에게 치명적인 수리검을 던져 [300/500/700]의 피해를 주고 대상을 짧은 기절에 빠뜨립니다.",

@@ -123,7 +123,7 @@
   "dac_ability_dragon_knight_elder_dragon_form_description": "<i>UNLOCKED BY THE DRAGON ALLIANCE</i>\nPASSIVE: At the beginning of combat Dragon Knight takes the form of one of three powerful elder dragons, increasing his movement speed by 30% and attack damage by [50/100/150] and granting him new powers.\n\nGreen Dragon:\\nAttacks deal [30/30/30] poison damage per second for [5/5/5] seconds.\n\nRed Dragon:\\nIn addition to poisoning enemies, attacks damage all enemy units 1 cell away from the target for 50% damage.\n\nBlue Dragon:\\nIn addition to poisoning enemies, attacks slows movement speed by -30% and attack speed by -30% to enemy units 1 cell away from the target for [3/3/3] seconds.",
   "dac_ability_dragon_knight_elder_dragon_form_lore": "Kaden spoke highly of you, let's hope his praise was well earned. - <i>Wren, Friend to Dragon Hold</i>",
   "dac_ability_enchantress_natures_attendants": "Nature's Attendants",
-  "dac_ability_enchantress_natures_attendants_description": "Enchantress summons a cloud of [3/5/7] wisps that heal all allies up to 4 cells away.\n\nFor 11 seconds, allies heal 25 health every 1.5 seconds.",
+  "dac_ability_enchantress_natures_attendants_description": "Enchantress summons a cloud of [3/5/7] wisps that heal all allies up to 4 cells away.\n\nFor 11 seconds, allies heal 40 health every 1.5 seconds.",
   "dac_ability_enchantress_natures_attendants_lore": "She won't last a day in White Spire.  Not. A. Day. - <i>In which Hobgen underestimates his adversary</i>",
   "dac_ability_bounty_hunter_shuriken_toss": "Shuriken Toss",
   "dac_ability_bounty_hunter_shuriken_toss_description": "Bounty Hunter hurls a deadly shuriken at an enemy unit, dealing [300/500/700] damage and mini-stunning the target.",

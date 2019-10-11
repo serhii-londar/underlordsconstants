@@ -123,7 +123,7 @@
   "dac_ability_dragon_knight_elder_dragon_form_description": "<i>MỞ KHÓA BẰNG LIÊN MINH RỒNG</i>\nNỘI TẠI: Ngay khi giao chiến, Hiệp Sĩ Rồng biến thành một trong ba con rồng hùng mạnh, giúp tăng 30% tốc độ di chuyển & [50/100/150] sát thương, và có thêm sức mạnh mới.\n\nRồng Lục:\\nĐòn đánh gây thêm [30/30/30] sát thương độc mỗi giây trong vòng [5/5/5] giây.\n\nRồng Đỏ:\\nNgoài việc tẩm độc, đòn đánh gây 50% sát thương lên mọi kẻ địch trong phạm vi 1 ô tính quanh mục tiêu chính.\n\nRồng Lam:\\nNgoài việc tẩm độc, giảm -30% tốc độ di chuyển và -30% tốc độ đánh kẻ địch trong phạm vi 1 ô trong [3/3/3] giây.",
   "dac_ability_dragon_knight_elder_dragon_form_lore": "Kaden ca ngợi anh không ngớt, hy vọng đó không phải là hư danh. - <i>Wren, bạn của Thành Rồng Dragon Hold</i>",
   "dac_ability_enchantress_natures_attendants": "Thiên Nhiên Trợ Lực",
-  "dac_ability_enchantress_natures_attendants_description": "Tiên Nai triệu hồi [3/5/7] tinh linh để hồi máu đồng minh trong phạm vi 4 ô.\n\nTrong 11 giây, đồng minh hồi 25 máu mỗi 1.5 giây.",
+  "dac_ability_enchantress_natures_attendants_description": "Tiên Nai triệu hồi [3/5/7] tinh linh để hồi máu đồng minh trong phạm vi 4 ô.\n\nTrong 11 giây, đồng minh hồi 40 máu mỗi 1.5 giây.",
   "dac_ability_enchantress_natures_attendants_lore": "Ả chẳng sống nổi quá một ngày ở White Spire đâu. Không-Quá-Một-Ngày - <i>Hobgen tỏ ra khinh địch</i>",
   "dac_ability_bounty_hunter_shuriken_toss": "Ném Phi Tiêu",
   "dac_ability_bounty_hunter_shuriken_toss_description": "Thợ Săn Tiền Thưởng ném phi tiêu vào kẻ địch, gây [300/500/700] sát thương và làm choáng nhẹ mục tiêu.",
