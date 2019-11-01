@@ -62,7 +62,7 @@
     "displayName": "dac_item_octarine_fragment",
     "description": "dac_item_octarine_fragment_desc",
     "requires_ability": true,
-    "cooldown_percentage": 50,
+    "cooldown_percentage": 30,
     "icon": "octarine_fragment",
     "key": "octarine_fragment"
   },
@@ -376,7 +376,7 @@
     "description": "dac_item_chainmail_desc",
     "tier": 1,
     "type": "defensive",
-    "bonus_armor": 10,
+    "bonus_armor": 7,
     "icon": "chainmail",
     "key": "chainmail"
   },
@@ -1350,7 +1350,7 @@
   },
   "target_dummy": {
     "id": 10565,
-    "tier": 2,
+    "tier": 3,
     "max_allowed": 1,
     "type": "placeable",
     "displayName": "dac_item_target_dummy",
