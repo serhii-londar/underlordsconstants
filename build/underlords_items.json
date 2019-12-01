@@ -756,6 +756,7 @@
     "tier": 1,
     "type": "global",
     "max_allowed": 1,
+    "disable_turbo": true,
     "global": {
       "extra_items_offered": 1
     },
@@ -769,6 +770,7 @@
     "tier": 2,
     "type": "global",
     "max_allowed": 1,
+    "disabled": true,
     "global": {
       "item_level_modifier": 1
     },
@@ -779,6 +781,7 @@
     "id": 10531,
     "displayName": "dac_item_bonus_damage_on_low_life",
     "description": "dac_item_bonus_damage_on_low_life_desc",
+    "disable_turbo": true,
     "tier": 5,
     "type": "global",
     "aiRequiresLowHealth": true,
@@ -795,6 +798,7 @@
     "id": 10533,
     "displayName": "dac_item_prevent_next_life_loss",
     "description": "dac_item_prevent_next_life_loss_desc",
+    "disable_turbo": true,
     "tier": 2,
     "type": "global",
     "global": {

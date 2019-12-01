@@ -27,6 +27,10 @@
       6000
     ],
     "id": 32,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "#dac_hero_hint_explosive_shield"
+    ],
     "keywords": "undead knight",
     "magicResist": 0,
     "maxmana": 100,
@@ -66,6 +70,10 @@
       8000
     ],
     "id": 46,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "#dac_hero_hint_wide_debuff"
+    ],
     "keywords": "goblin warlock",
     "magicResist": 0,
     "maxmana": 100,
@@ -104,10 +112,15 @@
     "goldCost": 1,
     "health": [
       1000,
-      2000,
+      1800,
       4000
     ],
     "id": 11,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "#dac_hero_hint_teleport_movement",
+      "#dac_hero_hint_mana_break"
+    ],
     "keywords": "elf assassin",
     "magicResist": [
       30,
@@ -155,11 +168,15 @@
     "draftTier": 1,
     "goldCost": 1,
     "health": [
-      1610,
-      3220,
-      6440
+      1851,
+      3703,
+      7406
     ],
     "id": 1,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "#dac_hero_hint_taunt"
+    ],
     "keywords": "brawny brutal",
     "magicResist": 0,
     "maxmana": 50,
@@ -199,6 +216,10 @@
       4000
     ],
     "id": 9,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_ramping_damage"
+    ],
     "keywords": "troll knight",
     "magicResist": 0,
     "maxmana": 20,
@@ -240,6 +261,10 @@
       4800
     ],
     "id": 14,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "#dac_hero_hint_cone_damage"
+    ],
     "keywords": "brawny hunter",
     "magicResist": 0,
     "maxmana": 100,
@@ -277,10 +302,14 @@
     "goldCost": 1,
     "health": [
       1100,
-      2200,
+      1980,
       4400
     ],
     "id": 6,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "#dac_hero_hint_teleport_movement"
+    ],
     "keywords": "goblin assassin",
     "magicResist": 0,
     "maxmana": 100,
@@ -324,9 +353,13 @@
       6000
     ],
     "id": 21,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "#dac_hero_hint_high_single_target_damage"
+    ],
     "keywords": "demon knight",
     "magicResist": 0,
-    "maxmana": 100,
+    "maxmana": 75,
     "model": "models/heroes/chaos_knight/chaos_knight.vmdl",
     "model_scale": 0.6,
     "texturename": "chaos_knight",
@@ -367,6 +400,11 @@
       7000
     ],
     "id": 7,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "#dac_hero_hint_tanky",
+      "#dac_hero_hint_aoe_ministun"
+    ],
     "keywords": "goblin inventor",
     "magicResist": 0,
     "maxmana": 100,
@@ -406,6 +444,10 @@
       4000
     ],
     "id": 13,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_freezes_enemies"
+    ],
     "keywords": "human mage",
     "magicResist": 0,
     "maxmana": 100,
@@ -452,6 +494,10 @@
       6800
     ],
     "id": 47,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_aoe_silence"
+    ],
     "keywords": "brawny warlock",
     "magicResist": 0,
     "maxmana": 100,
@@ -499,6 +545,10 @@
       8400
     ],
     "id": 40,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "#dac_hero_hint_doom_silence"
+    ],
     "keywords": "demon brutal",
     "magicResist": 0,
     "maxmana": 100,
@@ -541,6 +591,10 @@
       8000
     ],
     "id": 49,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "#dac_hero_hint_dragon"
+    ],
     "keywords": "human dragon knight",
     "magicResist": 0,
     "maxmana": 100,
@@ -582,6 +636,10 @@
       3200
     ],
     "id": 5,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_nearby_allies_attack_faster"
+    ],
     "keywords": "undead hunter",
     "magicResist": 0,
     "maxmana": 100,
@@ -625,6 +683,10 @@
       3000
     ],
     "id": 2,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_healer"
+    ],
     "keywords": "savage druid healer",
     "magicResist": 0,
     "maxmana": 100,
@@ -667,6 +729,10 @@
       8000
     ],
     "id": 54,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_high_group_damage"
+    ],
     "keywords": "primordial shaman",
     "magicResist": 40,
     "maxmana": 100,
@@ -714,6 +780,10 @@
       4000
     ],
     "id": 25,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_chaining_damage_spell"
+    ],
     "keywords": "druid shaman",
     "magicResist": 0,
     "maxmana": 100,
@@ -756,6 +826,10 @@
       7200
     ],
     "id": 51,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_high_group_damage"
+    ],
     "keywords": "dwarf inventor",
     "magicResist": 0,
     "maxmana": 100,
@@ -784,18 +858,18 @@
     "attackAnimationPoint": 0.33,
     "attackRange": 1,
     "attackRate": [
-      1.1,
       1,
+      0.9,
       0.8
     ],
     "damageMin": [
       65,
-      140,
+      155,
       280
     ],
     "damageMax": [
       70,
-      150,
+      165,
       300
     ],
     "displayName": "dac_hero_name_juggernaut",
@@ -804,10 +878,15 @@
     "goldCost": 3,
     "health": [
       1200,
-      2400,
+      2600,
       4800
     ],
     "id": 15,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "#dac_hero_hint_pbaoe_damage",
+      "#dac_hero_hint_magic_immune_with_ability"
+    ],
     "keywords": "brawny warrior",
     "magicResist": 0,
     "maxmana": 100,
@@ -847,6 +926,11 @@
       4400
     ],
     "id": 43,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_high_group_damage",
+      "#dac_hero_hint_long_cast_time"
+    ],
     "keywords": "human mage",
     "magicResist": 0,
     "maxmana": 100,
@@ -888,6 +972,10 @@
       7600
     ],
     "id": 41,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_group_stun"
+    ],
     "keywords": "human warrior",
     "magicResist": 0,
     "maxmana": 100,
@@ -928,6 +1016,11 @@
       6800
     ],
     "id": 52,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_high_group_damage",
+      "dac_hero_hint_chaining_damage_spell"
+    ],
     "keywords": "undead mage",
     "magicResist": 20,
     "maxmana": 100,
@@ -975,6 +1068,10 @@
       4800
     ],
     "id": 39,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_high_single_target_damage"
+    ],
     "keywords": "human mage",
     "magicResist": 0,
     "maxmana": 100,
@@ -1020,6 +1117,10 @@
       6000
     ],
     "id": 50,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_summons_strong_ally"
+    ],
     "keywords": "savage druid",
     "magicResist": 20,
     "maxmana": 60,
@@ -1044,12 +1145,12 @@
     "attackRate": 1.3,
     "damageMin": [
       50,
-      100,
+      120,
       200
     ],
     "damageMax": [
       60,
-      120,
+      144,
       240
     ],
     "displayName": "dac_hero_name_luna",
@@ -1062,6 +1163,10 @@
       4000
     ],
     "id": 24,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_attacks_bounce"
+    ],
     "keywords": "elf knight",
     "magicResist": 0,
     "maxmana": 100,
@@ -1104,6 +1209,10 @@
       7200
     ],
     "id": 26,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "#dac_hero_hint_transforms"
+    ],
     "keywords": "human savage hunter",
     "magicResist": 0,
     "maxmana": 100,
@@ -1145,6 +1254,10 @@
       6600
     ],
     "id": 48,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_group_stun"
+    ],
     "keywords": "naga hunter",
     "magicResist": 10,
     "maxmana": 100,
@@ -1168,8 +1281,6 @@
     "abilities": [
       "morphling_waveform"
     ],
-    "baseclass": "dac_npc_assassin",
-    "assassin_modifier": "assassin_modifier_morphling",
     "armor": 5,
     "attackAnimationPoint": 0.5,
     "attackRange": 3,
@@ -1186,15 +1297,20 @@
     ],
     "displayName": "dac_hero_name_morphling",
     "dota_unit_name": "npc_dota_hero_morphling",
-    "draftTier": 2,
-    "goldCost": 2,
+    "draftTier": 3,
+    "goldCost": 3,
     "health": [
-      1000,
-      2000,
+      1250,
+      2500,
       4000
     ],
     "id": 23,
-    "keywords": "primordial assassin",
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_teleport_movement",
+      "#dac_hero_hint_line_damage"
+    ],
+    "keywords": "primordial mage",
     "magicResist": 0,
     "maxmana": 75,
     "model": "models/heroes/morphling/morphling.vmdl",
@@ -1240,6 +1356,11 @@
       6800
     ],
     "id": 44,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_aoe_damage",
+      "#dac_hero_hint_healer"
+    ],
     "keywords": "undead healer",
     "magicResist": 0,
     "maxmana": 100,
@@ -1281,7 +1402,11 @@
       6000
     ],
     "id": 3,
-    "keywords": "ogre mage",
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "#dac_hero_hint_buffs_allies_attack_speed"
+    ],
+    "keywords": "ogre brutal mage",
     "magicResist": 0,
     "maxmana": 0,
     "model": "models/heroes/ogre_magi/ogre_magi.vmdl",
@@ -1315,14 +1440,19 @@
     "draftTier": 3,
     "goldCost": 3,
     "health": [
-      1400,
-      2800,
-      6720
+      1610,
+      3220,
+      7728
     ],
     "id": 28,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "#dac_hero_hint_healer_single",
+      "dac_hero_hint_omni_heal"
+    ],
     "keywords": "human knight healer",
     "magicResist": 0,
-    "maxmana": 100,
+    "maxmana": 60,
     "model": "models/heroes/omniknight/omniknight.vmdl",
     "model_scale": 0.6,
     "texturename": "omniknight",
@@ -1357,10 +1487,14 @@
     "goldCost": 3,
     "health": [
       1100,
-      2200,
+      1980,
       4400
     ],
     "id": 31,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_high_single_target_damage"
+    ],
     "keywords": "elf assassin",
     "magicResist": 0,
     "maxmana": 100,
@@ -1408,6 +1542,11 @@
       3600
     ],
     "id": 18,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "#dac_hero_hint_dragon",
+      "dac_hero_hint_line_damage"
+    ],
     "keywords": "elf dragon mage",
     "magicResist": 0,
     "maxmana": 60,
@@ -1448,10 +1587,14 @@
     "goldCost": 2,
     "health": [
       1100,
-      2200,
+      1980,
       4400
     ],
     "id": 17,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_close_aoe_damage"
+    ],
     "keywords": "demon assassin",
     "magicResist": 0,
     "maxmana": 100,
@@ -1497,6 +1640,10 @@
       4000
     ],
     "id": 29,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_aoe_damage"
+    ],
     "keywords": "primordial mage",
     "magicResist": 0,
     "maxmana": 100,
@@ -1540,6 +1687,11 @@
       6400
     ],
     "id": 33,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_line_damage",
+      "dac_hero_hint_line_stun"
+    ],
     "keywords": "savage insect",
     "magicResist": 0,
     "maxmana": 100,
@@ -1563,14 +1715,14 @@
     "attackRange": 3,
     "attackRate": 1.1,
     "damageMin": [
-      70,
-      140,
-      336
+      77,
+      154,
+      369
     ],
     "damageMax": [
-      80,
-      160,
-      384
+      88,
+      176,
+      422
     ],
     "displayName": "dac_hero_name_shadow_fiend",
     "dota_unit_name": "npc_dota_hero_nevermore",
@@ -1582,6 +1734,12 @@
       3600
     ],
     "id": 38,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_high_group_damage",
+      "dac_hero_hint_aoe_damage",
+      "dac_hero_hint_long_cast_time"
+    ],
     "keywords": "demon warlock",
     "magicResist": 0,
     "maxmana": 100,
@@ -1624,6 +1782,10 @@
       4400
     ],
     "id": 8,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_single_target_chicken"
+    ],
     "keywords": "troll shaman",
     "magicResist": 0,
     "maxmana": 70,
@@ -1665,6 +1827,10 @@
       5200
     ],
     "id": 20,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_single_target_armor_down"
+    ],
     "keywords": "naga warrior",
     "magicResist": 0,
     "maxmana": 75,
@@ -1707,10 +1873,15 @@
     "goldCost": 3,
     "health": [
       1000,
-      2000,
+      1800,
       4800
     ],
     "id": 34,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_jumping_movement",
+      "dac_hero_hint_ramping_damage"
+    ],
     "keywords": "naga assassin",
     "magicResist": 0,
     "maxmana": 100,
@@ -1755,6 +1926,11 @@
       4320
     ],
     "id": 35,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_long_cast_time",
+      "dac_hero_hint_high_single_target_damage"
+    ],
     "keywords": "goblin dwarf hunter",
     "magicResist": 0,
     "maxmana": 100,
@@ -1797,6 +1973,11 @@
       8000
     ],
     "id": 55,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_long_cast_time",
+      "dac_hero_hint_aoe_damage"
+    ],
     "keywords": "goblin inventor",
     "magicResist": 0,
     "maxmana": 100,
@@ -1844,10 +2025,15 @@
     "goldCost": 4,
     "health": [
       1500,
-      3000,
+      2700,
       6000
     ],
     "id": 45,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_teleport_movement",
+      "dac_hero_hint_self_shield"
+    ],
     "keywords": "elf assassin",
     "magicResist": 0,
     "maxmana": 100,
@@ -1893,6 +2079,11 @@
       6240
     ],
     "id": 36,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_transforms",
+      "dac_hero_hint_high_single_target_damage"
+    ],
     "keywords": "demon hunter",
     "magicResist": [
       10,
@@ -1940,6 +2131,10 @@
       11000
     ],
     "id": 53,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_group_stun"
+    ],
     "keywords": "naga warrior",
     "magicResist": 0,
     "maxmana": 100,
@@ -1984,6 +2179,10 @@
       6400
     ],
     "id": 16,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_pbaoe_damage"
+    ],
     "keywords": "goblin inventor",
     "magicResist": 0,
     "maxmana": 100,
@@ -2025,6 +2224,10 @@
       7000
     ],
     "id": 10,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_multiple_damage"
+    ],
     "keywords": "goblin inventor",
     "magicResist": 0,
     "maxmana": 100,
@@ -2065,6 +2268,11 @@
       5200
     ],
     "id": 12,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_attacks_slowly",
+      "dac_hero_hint_line_stun"
+    ],
     "keywords": "primordial warrior",
     "magicResist": 0,
     "maxmana": 100,
@@ -2108,6 +2316,11 @@
       5000
     ],
     "id": 22,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_attacks_slowly",
+      "dac_hero_hint_healer"
+    ],
     "keywords": "druid brutal",
     "magicResist": 0,
     "maxmana": 100,
@@ -2148,6 +2361,10 @@
       8000
     ],
     "id": 42,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_ramping_damage"
+    ],
     "keywords": "troll warrior",
     "magicResist": 0,
     "maxmana": 100,
@@ -2196,6 +2413,11 @@
       5600
     ],
     "id": 4,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_walrus",
+      "dac_hero_hint_high_single_target_damage"
+    ],
     "keywords": "savage warrior",
     "magicResist": 0,
     "maxmana": 60,
@@ -2235,7 +2457,11 @@
       4000
     ],
     "id": 27,
-    "keywords": "savage warlock",
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_line_damage"
+    ],
+    "keywords": "savage warlock naga",
     "magicResist": 20,
     "maxmana": 100,
     "model": "models/heroes/venomancer/venomancer.vmdl",
@@ -2279,6 +2505,11 @@
       6000
     ],
     "id": 37,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_dragon",
+      "dac_hero_hint_strong_single_debuff"
+    ],
     "keywords": "naga dragon",
     "magicResist": 20,
     "maxmana": 50,
@@ -2320,6 +2551,10 @@
       4600
     ],
     "id": 30,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_line_damage"
+    ],
     "keywords": "elf hunter",
     "magicResist": 0,
     "maxmana": 100,
@@ -2361,6 +2596,11 @@
       4400
     ],
     "id": 19,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_chaining_damage_spell",
+      "dac_hero_hint_line_stun"
+    ],
     "keywords": "troll warlock",
     "magicResist": 0,
     "maxmana": 100,
@@ -2399,9 +2639,14 @@
     "health": [
       2000,
       5000,
-      11000
+      9350
     ],
     "id": 81,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_tanky",
+      "dac_hero_hint_hooks_enemies"
+    ],
     "keywords": "undead warrior",
     "magicResist": 5,
     "maxmana": 100,
@@ -2443,6 +2688,10 @@
       5700
     ],
     "id": 82,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_heal_or_damage"
+    ],
     "keywords": "ogre warlock healer",
     "magicResist": 0,
     "maxmana": 100,
@@ -2459,7 +2708,7 @@
       "bloodseeker_blood_rage"
     ],
     "baseclass": "dac_npc_bloodseeker",
-    "armor": 5,
+    "armor": 0,
     "attackAnimationPoint": 0.43,
     "attackRange": 1,
     "attackRate": 1.7,
@@ -2478,11 +2727,15 @@
     "draftTier": 1,
     "goldCost": 1,
     "health": [
-      1000,
-      2000,
-      4000
+      1200,
+      2400,
+      4600
     ],
     "id": 83,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_bloodseeker"
+    ],
     "keywords": "ogre dwarf",
     "magicResist": 20,
     "maxmana": 100,
@@ -2534,6 +2787,10 @@
       4800
     ],
     "id": 84,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_self_copy"
+    ],
     "keywords": "primordial shaman",
     "magicResist": 5,
     "maxmana": 0,
@@ -2574,6 +2831,10 @@
       6000
     ],
     "id": 86,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_strong_single_stun"
+    ],
     "keywords": "elf hunter",
     "magicResist": 0,
     "maxmana": 70,
@@ -2602,6 +2863,7 @@
       110,
       170
     ],
+    "hintWords": [],
     "keywords": "savage",
     "displayName": "dac_name_plague_ward",
     "dota_unit_name": "npc_dota_venomancer_plague_ward_1",
@@ -2620,7 +2882,6 @@
     "id": 56,
     "magicResist": 0,
     "model": "models/heroes/venomancer/venomancer_ward.vmdl",
-    "texturename": "venomancer_plague_ward",
     "soundSet": "VenomancerWard",
     "projectile_speed": 1900,
     "projectile_model": "particles/units/heroes/hero_venomancer/venomancer_plague_ward_projectile.vpcf",
@@ -2644,6 +2905,7 @@
       70,
       90
     ],
+    "hintWords": [],
     "keywords": "druid",
     "displayName": "dac_name_natures_prophet_tree",
     "dota_unit_name": "natures_prophet_tree",
@@ -2668,6 +2930,7 @@
       "lone_druid_spirit_bear_entangle"
     ],
     "soundSet": "Summon_Bear",
+    "hintWords": [],
     "keywords": "savage druid",
     "armor": 10,
     "attackAnimationPoint": 0.3,
@@ -2712,6 +2975,7 @@
     "attackAnimationPoint": 0.3,
     "attackRange": 1,
     "attackRate": 1.2,
+    "hintWords": [],
     "keywords": "savage hunter",
     "damageMin": [
       80,
@@ -2833,6 +3097,7 @@
     "draftTier": 0,
     "neutral_creep": true,
     "powerLevel": 4,
+    "hintWords": [],
     "keywords": "megawarrior",
     "model": "models/creeps/neutral_creeps/n_creep_golem_a/neutral_creep_golem_a.vmdl",
     "attackAnimationPoint": 0.3,
@@ -2853,6 +3118,7 @@
     "id": 66,
     "draftTier": 0,
     "neutral_creep": true,
+    "hintWords": [],
     "keywords": "megawarrior",
     "powerLevel": 3,
     "model": "models/creeps/neutral_creeps/n_creep_golem_b/n_creep_golem_b.vmdl",
@@ -2877,6 +3143,7 @@
     "draftTier": 0,
     "neutral_creep": true,
     "powerLevel": 5,
+    "hintWords": [],
     "keywords": "megaassassin",
     "model": "models/creeps/neutral_creeps/n_creep_worg_large/n_creep_worg_large.vmdl",
     "attackAnimationPoint": 0.3,
@@ -2900,6 +3167,7 @@
     "draftTier": 0,
     "neutral_creep": true,
     "powerLevel": 3,
+    "hintWords": [],
     "keywords": "megaassassin",
     "model": "models/creeps/neutral_creeps/n_creep_worg_small/n_creep_worg_small.vmdl",
     "attackAnimationPoint": 0.3,
@@ -2921,6 +3189,7 @@
     "draftTier": 0,
     "neutral_creep": true,
     "powerLevel": 5,
+    "hintWords": [],
     "keywords": "megabloodbound",
     "model": "models/creeps/neutral_creeps/n_creep_furbolg/n_creep_furbolg_disrupter.vmdl",
     "attackAnimationPoint": 0.3,
@@ -2942,6 +3211,7 @@
     "draftTier": 0,
     "neutral_creep": true,
     "powerLevel": 5,
+    "hintWords": [],
     "keywords": "megabloodbound",
     "model": "models/creeps/neutral_creeps/n_creep_beast/n_creep_beast.vmdl",
     "attackAnimationPoint": 0.29,
@@ -2963,6 +3233,7 @@
     "draftTier": 0,
     "neutral_creep": true,
     "powerLevel": 6,
+    "hintWords": [],
     "keywords": "megaelusive",
     "model": "models/creeps/neutral_creeps/n_creep_vulture_a/n_creep_vulture_a.vmdl",
     "attackAnimationPoint": 0.3,
@@ -2986,6 +3257,7 @@
     "id": 72,
     "draftTier": 0,
     "neutral_creep": true,
+    "hintWords": [],
     "keywords": "megaelusive",
     "powerLevel": 6,
     "model": "models/creeps/neutral_creeps/n_creep_vulture_b/n_creep_vulture_b.vmdl",
@@ -3010,6 +3282,7 @@
     "id": 73,
     "draftTier": 0,
     "neutral_creep": true,
+    "hintWords": [],
     "keywords": "megawarlock",
     "abilities": [
       "thunder_lizard_bloodlust"
@@ -3038,6 +3311,7 @@
     "id": 74,
     "draftTier": 0,
     "neutral_creep": true,
+    "hintWords": [],
     "keywords": "megawarlock",
     "abilities": [
       "thunder_lizard_bloodlust"
@@ -3066,6 +3340,7 @@
     "id": 75,
     "draftTier": 0,
     "neutral_creep": true,
+    "hintWords": [],
     "keywords": "megascaled",
     "powerLevel": 8,
     "abilities": [
@@ -3093,6 +3368,7 @@
     "draftTier": 0,
     "neutral_creep": true,
     "powerLevel": 5,
+    "hintWords": [],
     "keywords": "megatroll",
     "model": "models/creeps/neutral_creeps/n_creep_troll_dark_a/n_creep_troll_dark_a.vmdl",
     "attackAnimationPoint": 0.3,
@@ -3114,6 +3390,7 @@
     "draftTier": 0,
     "neutral_creep": true,
     "powerLevel": 7,
+    "hintWords": [],
     "keywords": "megatroll",
     "model": "models/creeps/neutral_creeps/n_creep_troll_dark_b/n_creep_troll_dark_b.vmdl",
     "attackAnimationPoint": 0.3,
@@ -3137,6 +3414,7 @@
     "draftTier": 0,
     "neutral_creep": true,
     "powerLevel": 7,
+    "hintWords": [],
     "keywords": "megatroll",
     "model": "models/creeps/neutral_creeps/n_creep_troll_dark_b/n_creep_troll_dark_frost.vmdl",
     "attackAnimationPoint": 0.3,
@@ -3160,6 +3438,7 @@
     "draftTier": 0,
     "neutral_creep": true,
     "powerLevel": 9,
+    "hintWords": [],
     "keywords": "megademon",
     "abilities": [
       "sven_great_cleave"
@@ -3209,9 +3488,9 @@
   },
   "eidolon": {
     "armor": [
+      3,
       5,
-      10,
-      15
+      8
     ],
     "attackAnimationPoint": 0.3,
     "attackRange": 2,
@@ -3233,7 +3512,7 @@
     "health": [
       600,
       1200,
-      2400
+      1800
     ],
     "model_scale": [
       0.55,
@@ -3241,6 +3520,7 @@
       0.85
     ],
     "id": 87,
+    "hintWords": [],
     "keywords": "primordial",
     "model": "models/heroes/enigma/eidelon.vmdl",
     "movespeed": 400,
@@ -3255,6 +3535,7 @@
       "healing_ward_healing_aura"
     ],
     "armor": 0,
+    "hintWords": [],
     "keywords": "",
     "displayName": "dac_name_healing_ward",
     "dota_unit_name": "npc_dota_healing_ward",
@@ -3291,6 +3572,7 @@
       "barricade_aura"
     ],
     "armor": 20,
+    "hintWords": [],
     "keywords": "",
     "displayName": "dac_name_barricade",
     "dota_unit_name": "npc_dota_barricade",
@@ -3322,6 +3604,7 @@
       "tombstone_raise_zombies"
     ],
     "armor": 10,
+    "hintWords": [],
     "keywords": "",
     "displayName": "dac_name_tombstone",
     "dota_unit_name": "npc_dota_tombstone",
@@ -3356,6 +3639,7 @@
       "target_dummy_taunt"
     ],
     "armor": 10,
+    "hintWords": [],
     "keywords": "",
     "displayName": "dac_name_target_dummy",
     "dota_unit_name": "npc_dota_dummy_tidehunter",
@@ -3395,6 +3679,7 @@
       70,
       90
     ],
+    "hintWords": [],
     "keywords": "",
     "displayName": "dac_name_tombstone_zombie",
     "dota_unit_name": "npc_dota_tombstone_zombie",
@@ -3448,10 +3733,15 @@
     "goldCost": 5,
     "health": [
       2000,
-      4000,
+      3600,
       8000
     ],
     "id": 96,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_jumping_movement",
+      "dac_hero_hint_void_cube"
+    ],
     "keywords": "primordial assassin",
     "magicResist": 0,
     "maxmana": 100,
@@ -3474,35 +3764,40 @@
   },
   "legion_commander": {
     "abilities": [
-      "legion_commander_duel"
+      "legion_commander_duel",
+      "legion_commander_element"
     ],
     "extra_abilities": [
       "legion_commander_will_of_the_bullsnake"
     ],
-    "armor": 10,
+    "armor": 5,
     "attackAnimationPoint": 0.46,
     "attackRange": 1,
     "attackRate": 1.25,
     "damageMin": [
-      50,
-      100,
-      240
+      40,
+      80,
+      180
     ],
     "damageMax": [
-      60,
-      120,
-      288
+      50,
+      100,
+      228
     ],
     "displayName": "dac_hero_name_legion_commander",
     "dota_unit_name": "npc_dota_hero_legion_commander",
     "draftTier": 3,
     "goldCost": 3,
     "health": [
-      1000,
-      2000,
-      4800
+      900,
+      1800,
+      3600
     ],
     "id": 97,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_legion_commander"
+    ],
     "keywords": "human champion",
     "magicResist": 0,
     "maxmana": 100,
@@ -3541,10 +3836,15 @@
     "goldCost": 1,
     "health": [
       1100,
-      2200,
+      1980,
       4400
     ],
     "id": 98,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_teleport_movement",
+      "dac_hero_hint_high_single_target_damage"
+    ],
     "keywords": "insect assassin",
     "magicResist": 0,
     "maxmana": 100,
@@ -3568,14 +3868,14 @@
     "attackRange": 2,
     "attackRate": 0.9,
     "damageMin": [
-      45,
-      90,
-      207
+      60,
+      120,
+      260
     ],
     "damageMax": [
-      55,
-      110,
-      253
+      70,
+      140,
+      300
     ],
     "displayName": "dac_hero_name_weaver",
     "dota_unit_name": "npc_dota_hero_weaver",
@@ -3587,7 +3887,11 @@
       3600
     ],
     "id": 99,
-    "keywords": "insect hunter",
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_multiple_damage"
+    ],
+    "keywords": "insect elf goblin",
     "magicResist": 0,
     "maxmana": 20,
     "model": "models/heroes/weaver/weaver.vmdl",
@@ -3628,6 +3932,10 @@
       8000
     ],
     "id": 100,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_ability_spawns_allies"
+    ],
     "keywords": "insect warlock",
     "magicResist": 0,
     "maxmana": 100,
@@ -3652,6 +3960,7 @@
     "goldCost": 0,
     "health": 1,
     "id": 101,
+    "hintWords": [],
     "keywords": "insect",
     "magicResist": 0,
     "maxmana": 0,
@@ -3683,6 +3992,7 @@
     "goldCost": 0,
     "health": 1,
     "id": 102,
+    "hintWords": [],
     "keywords": "insect",
     "magicResist": 0,
     "maxmana": 0,
@@ -3707,6 +4017,7 @@
       "cinderwall_aura"
     ],
     "armor": 20,
+    "hintWords": [],
     "keywords": "",
     "displayName": "dac_name_cinderwall",
     "dota_unit_name": "npc_dota_cinderwall",
@@ -3742,8 +4053,22 @@
       "anessix_summon_golem"
     ],
     "id": 1001,
+    "hintWords": [],
     "keywords": "",
     "isUnderlord": true,
+    "dota_unit_name": "anessix",
+    "hypeBarColorStart": [
+      189,
+      45,
+      255,
+      255
+    ],
+    "hypeBarColorEnd": [
+      249,
+      178,
+      228,
+      255
+    ],
     "hypeBarDarkColor": [
       [
         189,
@@ -3820,17 +4145,16 @@
     ],
     "health": [
       1000,
-      1350,
-      1700,
-      2050,
-      2400,
-      2750,
-      3100,
-      3450,
-      3800,
-      4150
+      1500,
+      2000,
+      2500,
+      3000,
+      3500,
+      4000,
+      4500,
+      5000,
+      5500
     ],
-    "dota_unit_name": "anessix",
     "healthRegen": 20,
     "movespeed": 275,
     "model_scale": 1,
@@ -3858,8 +4182,22 @@
       "hobgen_airstrike"
     ],
     "id": 1004,
+    "hintWords": [],
     "keywords": "",
     "isUnderlord": true,
+    "dota_unit_name": "hobgen",
+    "hypeBarColorStart": [
+      242,
+      83,
+      28,
+      255
+    ],
+    "hypeBarColorEnd": [
+      255,
+      186,
+      27,
+      255
+    ],
     "hypeBarDarkColor": [
       [
         242,
@@ -3921,7 +4259,6 @@
       ]
     ],
     "displayName": "dac_name_hobgen",
-    "dota_unit_name": "hobgen",
     "soundSet": "Underlord_Hobgen",
     "draftTier": 0,
     "armor": [
@@ -3937,16 +4274,16 @@
       10
     ],
     "health": [
-      1200,
-      1650,
-      2100,
-      2550,
-      3000,
-      3450,
-      3900,
-      4350,
-      4800,
-      5250
+      1000,
+      1700,
+      2400,
+      3100,
+      3800,
+      4500,
+      5200,
+      5900,
+      6600,
+      7300
     ],
     "healthRegen": 10,
     "movespeed": 275,
@@ -3960,28 +4297,28 @@
     "projectile_model": "particles/underlords/hobgen/hobgen_base_attack.vpcf",
     "player_dmg_override": 0,
     "damageMin": [
-      48,
-      60,
-      72,
-      84,
-      96,
-      108,
-      120,
-      132,
-      144,
-      160
+      74,
+      86,
+      98,
+      110,
+      122,
+      134,
+      146,
+      158,
+      170,
+      182
     ],
     "damageMax": [
-      54,
-      66,
-      78,
-      90,
-      102,
-      114,
-      126,
-      138,
-      150,
-      166
+      80,
+      92,
+      104,
+      116,
+      128,
+      140,
+      152,
+      164,
+      176,
+      188
     ],
     "disable_items": 1,
     "texturename": "hobgen",
@@ -4010,6 +4347,7 @@
     "draftTier": 0,
     "goldCost": 0,
     "id": 104,
+    "hintWords": [],
     "keywords": "demon warrior",
     "magicResist": 0,
     "maxmana": 0,
@@ -4081,6 +4419,7 @@
     "draftTier": 0,
     "goldCost": 0,
     "id": 105,
+    "hintWords": [],
     "keywords": "demon",
     "magicResist": 0,
     "maxmana": 0,
@@ -4093,28 +4432,28 @@
     "projectile_model": "particles/items2_fx/necronomicon_archer_projectile.vpcf",
     "soundSet": "Underlord_Annesix_range",
     "damageMin": [
-      50,
+      30,
+      36,
+      42,
+      48,
+      54,
       60,
-      70,
-      80,
-      90,
-      100,
-      110,
-      120,
-      130,
-      140
+      66,
+      72,
+      78,
+      84
     ],
     "damageMax": [
+      36,
+      42,
+      48,
+      54,
       60,
-      70,
-      80,
-      90,
-      100,
-      110,
-      120,
-      130,
-      140,
-      150
+      66,
+      72,
+      78,
+      84,
+      90
     ],
     "armor": [
       1,
@@ -4171,6 +4510,10 @@
       4000
     ],
     "id": 106,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_resurrects_allies"
+    ],
     "keywords": "primordial druid",
     "magicResist": 0,
     "maxmana": 100,
@@ -4216,6 +4559,7 @@
     "id": 108,
     "draftTier": 0,
     "powerLevel": 4,
+    "hintWords": [],
     "keywords": "demon",
     "model": [
       "models/underlords/anessix/anessix_golem_lvl1.vmdl",
@@ -4224,20 +4568,20 @@
     "attackAnimationPoint": 0.26,
     "model_scale": 0.85,
     "health": [
-      2000,
-      4000
+      3000,
+      5000
     ],
     "damageMin": [
-      100,
-      200
+      125,
+      250
     ],
     "damageMax": [
-      120,
-      240
+      145,
+      290
     ],
     "attackRate": 0.8,
     "attackRange": 1,
-    "movespeed": 270,
+    "movespeed": 260,
     "soundSet": "Underlord_Annesix_Golem",
     "magicResist": 0,
     "armor": 5,
@@ -4272,6 +4616,10 @@
       8800
     ],
     "id": 109,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_close_aoe_damage"
+    ],
     "keywords": "brawny savage",
     "magicResist": 0,
     "maxmana": 20,
@@ -4313,6 +4661,10 @@
       7600
     ],
     "id": 110,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_cleave_attack"
+    ],
     "keywords": "human naga knight",
     "magicResist": 0,
     "maxmana": 200,
@@ -4354,11 +4706,15 @@
     "draftTier": 2,
     "goldCost": 2,
     "health": [
-      1500,
-      3000,
-      7000
+      1875,
+      3750,
+      7500
     ],
     "id": 111,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_buffs_ally_with_cleave"
+    ],
     "keywords": "shaman brutal",
     "magicResist": 0,
     "model": "models/heroes/magnataur/magnataur.vmdl",
@@ -4397,6 +4753,10 @@
       6000
     ],
     "id": 112,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_healer"
+    ],
     "keywords": "troll healer",
     "magicResist": 0,
     "maxmana": 100,
@@ -4438,6 +4798,10 @@
       4800
     ],
     "id": 113,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_high_single_target_damage"
+    ],
     "keywords": "undead demon",
     "magicResist": 0,
     "maxmana": 100,
@@ -4459,9 +4823,9 @@
     ],
     "attackRange": 1,
     "attackRate": [
-      1.7,
-      1.6,
-      1.5
+      1.5,
+      1.4,
+      1.3
     ],
     "damageMin": [
       55,
@@ -4483,6 +4847,10 @@
       6480
     ],
     "id": 114,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_life_stealer_attack"
+    ],
     "keywords": "undead brutal",
     "magicResist": 0,
     "maxmana": 0,
@@ -4498,6 +4866,7 @@
   "test_dummy": {
     "abilities": [],
     "armor": 0,
+    "hintWords": [],
     "keywords": "",
     "displayName": "dac_name_target_dummy",
     "dota_unit_name": "npc_dota_dummy_tidehunter",
@@ -4525,6 +4894,7 @@
       "barricade_aura_new"
     ],
     "armor": 20,
+    "hintWords": [],
     "keywords": "",
     "displayName": "dac_name_barricade",
     "dota_unit_name": "npc_dota_barricade",
@@ -4556,6 +4926,7 @@
       "target_dummy_taunt_new"
     ],
     "armor": 10,
+    "hintWords": [],
     "keywords": "",
     "displayName": "dac_name_target_dummy",
     "dota_unit_name": "npc_dota_dummy_tidehunter",
@@ -4579,11 +4950,90 @@
     "healthBarOffset": 160,
     "key": "target_dummy_new"
   },
+  "tombstone_new": {
+    "abilities": [
+      "tombstone_raise_zombies_new"
+    ],
+    "armor": 10,
+    "hintWords": [],
+    "keywords": "",
+    "displayName": "dac_name_tombstone",
+    "dota_unit_name": "npc_dota_tombstone",
+    "draftTier": 0,
+    "goldCost": 0,
+    "health": [
+      4000,
+      4000,
+      4000
+    ],
+    "model_scale": 0.5,
+    "id": 119,
+    "magicResist": 0,
+    "model": "models/heroes/undying/undying_tower.vmdl",
+    "movespeed": 0,
+    "player_dmg_override": 0,
+    "disable_attack": 1,
+    "attackRange": 2,
+    "disable_movement": 1,
+    "disable_items": 1,
+    "ignoreForRoundEnd": true,
+    "aiAura": true,
+    "aiIsMelee": true,
+    "isPlaceable": true,
+    "healthBarOffset": -100,
+    "ambient_effect": "particles/items/tombstone/tombstone_ambient.vpcf",
+    "death_effect": "particles/items/tombstone/tombstone_destruction.vpcf",
+    "key": "tombstone_new"
+  },
+  "tombstone_zombie_new": {
+    "abilities": [],
+    "armor": 5,
+    "attackAnimationPoint": 0.3,
+    "attackRange": 1,
+    "attackRate": 1.2,
+    "damageMin": [
+      50,
+      70,
+      90
+    ],
+    "damageMax": [
+      70,
+      90,
+      110
+    ],
+    "hintWords": [],
+    "keywords": "",
+    "displayName": "dac_name_tombstone_zombie",
+    "dota_unit_name": "npc_dota_tombstone_zombie",
+    "draftTier": 0,
+    "goldCost": 0,
+    "health": [
+      800,
+      1200,
+      1600
+    ],
+    "model_scale": [
+      1,
+      1,
+      1.5
+    ],
+    "id": 120,
+    "magicResist": 0,
+    "model": [
+      "models/heroes/undying/undying_minion_torso.vmdl",
+      "models/heroes/undying/undying_minion.vmdl",
+      "models/heroes/undying/undying_minion.vmdl"
+    ],
+    "movespeed": 325,
+    "player_dmg_override": 0,
+    "key": "tombstone_zombie_new"
+  },
   "healing_ward_new": {
     "abilities": [
       "healing_ward_healing_aura_new"
     ],
     "armor": 0,
+    "hintWords": [],
     "keywords": "",
     "displayName": "dac_name_healing_ward",
     "dota_unit_name": "npc_dota_healing_ward",
@@ -4614,5 +5064,249 @@
       "particles/units/heroes/hero_juggernaut/juggernaut_healing_ward.vpcf"
     ],
     "key": "healing_ward_new"
+  },
+  "storm_spirit": {
+    "abilities": [
+      "storm_spirit_ball_lightning",
+      "storm_spirit_element"
+    ],
+    "armor": 5,
+    "attackAnimationPoint": 0.5,
+    "attackRange": 3,
+    "attackRate": 1.6,
+    "damageMin": [
+      50,
+      100,
+      200
+    ],
+    "damageMax": [
+      60,
+      120,
+      240
+    ],
+    "displayName": "dac_hero_name_storm_spirit",
+    "dota_unit_name": "npc_dota_hero_storm_spirit",
+    "draftTier": 2,
+    "goldCost": 2,
+    "health": [
+      1000,
+      2000,
+      4000
+    ],
+    "id": 121,
+    "hintWords": [
+      "#dac_hero_hint_ranged",
+      "dac_hero_hint_line_damage"
+    ],
+    "keywords": "spiritbrother mage",
+    "magicResist": 0,
+    "maxmana": 40,
+    "model": "models/heroes/storm_spirit/storm_spirit.vmdl",
+    "model_scale": 0.8,
+    "texturename": "storm_spirit",
+    "soundSet": "Hero_StormSpirit",
+    "projectile_speed": 900,
+    "projectile_model": "particles/units/heroes/hero_stormspirit/stormspirit_base_attack.vpcf",
+    "useConstantAnimationLayer": true,
+    "movespeed": 290,
+    "healthBarOffset": -10,
+    "key": "storm_spirit"
+  },
+  "ember_spirit": {
+    "abilities": [
+      "ember_spirit_sleight_of_fist",
+      "ember_spirit_element"
+    ],
+    "baseclass": "dac_npc_assassin",
+    "assassin_modifier": "assassin_modifier_ember_spirit",
+    "armor": 5,
+    "attackAnimationPoint": 0.3,
+    "attackRange": 1,
+    "attackRate": 1.5,
+    "damageMin": [
+      80,
+      160,
+      320
+    ],
+    "damageMax": [
+      100,
+      200,
+      400
+    ],
+    "displayName": "dac_hero_name_ember_spirit",
+    "dota_unit_name": "npc_dota_hero_ember_spirit",
+    "draftTier": 2,
+    "goldCost": 2,
+    "health": [
+      1100,
+      2200,
+      4400
+    ],
+    "id": 122,
+    "hintWords": [
+      "#dac_hero_hint_melee",
+      "dac_hero_hint_teleport_movement",
+      "dac_hero_hint_close_aoe_damage"
+    ],
+    "keywords": "spiritbrother assassin",
+    "magicResist": 0,
+    "maxmana": 100,
+    "model": "models/heroes/ember_spirit/ember_spirit.vmdl",
+    "model_scale": 0.9,
+    "texturename": "ember_spirit",
+    "soundSet": "Hero_EmberSpirit",
+    "movespeed": 305,
+    "precache": [
+      "particles/units/heroes/hero_ember_spirit/ember_teleport.vpcf"
+    ],
+    "healthBarOffset": -50,
+    "key": "ember_spirit"
+  },
+  "earth_spirit": {
+    "abilities": [
+      "earth_spirit_geomagnetic_grip",
+      "earth_spirit_element"
+    ],
+    "armor": 10,
+    "attackAnimationPoint": 0.33,
+    "attackRange": 1,
+    "attackRate": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "damageMin": [
+      55,
+      110,
+      220
+    ],
+    "damageMax": [
+      60,
+      120,
+      240
+    ],
+    "displayName": "dac_hero_name_earth_spirit",
+    "dota_unit_name": "npc_dota_hero_earth_spirit",
+    "draftTier": 3,
+    "goldCost": 3,
+    "health": [
+      1700,
+      3400,
+      6800
+    ],
+    "id": 123,
+    "hintWords": [
+      "#dac_hero_hint_melee"
+    ],
+    "keywords": "spiritbrother warrior",
+    "magicResist": 0,
+    "maxmana": 100,
+    "model": "models/heroes/earth_spirit/earth_spirit.vmdl",
+    "model_scale": 0.75,
+    "texturename": "earth_spirit",
+    "soundSet": "Hero_EarthSpirit",
+    "movespeed": 300,
+    "healthBarOffset": 10,
+    "key": "earth_spirit"
+  },
+  "void_spirit": {
+    "abilities": [
+      "void_spirit_dissimilate",
+      "void_spirit_spirit_bonus",
+      "void_spirit_element"
+    ],
+    "legendary": {
+      "bonus": 15,
+      "synergy": "spiritbrother",
+      "description": "#dac_legendary_void_spirit_desc",
+      "title": "#dac_legendary_title_void_spirit"
+    },
+    "armor": 5,
+    "attackAnimationPoint": 0.35,
+    "attackRange": 1,
+    "attackRate": 1,
+    "damageMin": [
+      70,
+      140,
+      280
+    ],
+    "damageMax": [
+      80,
+      160,
+      320
+    ],
+    "displayName": "dac_hero_name_void_spirit",
+    "dota_unit_name": "npc_dota_hero_void_spirit",
+    "draftTier": 5,
+    "goldCost": 5,
+    "health": [
+      1700,
+      3400,
+      6800
+    ],
+    "id": 124,
+    "hintWords": [
+      "#dac_hero_hint_melee"
+    ],
+    "keywords": "spiritbrother warlock",
+    "magicResist": 0,
+    "maxmana": 100,
+    "model": "models/heroes/void_spirit/void_spirit.vmdl",
+    "model_scale": 0.7,
+    "texturename": "void_spirit",
+    "soundSet": "Hero_VoidSpirit",
+    "movespeed": 305,
+    "healthBarOffset": 25,
+    "precache": [
+      "particles/units/heroes/hero_void_spirit/void_spirit_attack_alt_02_blur.vpcf"
+    ],
+    "key": "void_spirit"
+  },
+  "snapfire": {
+    "abilities": [
+      "granny_lizard_shotgun_blast"
+    ],
+    "extra_abilities": [
+      "granny_lizard_bazooka"
+    ],
+    "armor": 5,
+    "attackAnimationPoint": 0.5,
+    "attackRange": 2,
+    "attackRate": 1.3,
+    "projectile_model": "particles/units/heroes/hero_snapfire/hero_snapfire_base_attack.vpcf",
+    "damageMin": [
+      50,
+      100,
+      200
+    ],
+    "damageMax": [
+      60,
+      120,
+      240
+    ],
+    "displayName": "dac_hero_name_snapfire",
+    "dota_unit_name": "npc_dota_hero_snapfire",
+    "draftTier": 1,
+    "goldCost": 1,
+    "health": [
+      1250,
+      2500,
+      5000
+    ],
+    "id": 125,
+    "hintWords": [
+      "#dac_hero_hint_ranged"
+    ],
+    "keywords": "dragon inventor",
+    "magicResist": 0,
+    "maxmana": 100,
+    "model": "models/heroes/snapfire/snapfire.vmdl",
+    "model_scale": 0.4,
+    "texturename": "snapfire",
+    "soundSet": "Hero_Snapfire",
+    "movespeed": 295,
+    "projectile_speed": 900,
+    "healthBarOffset": 0,
+    "key": "snapfire"
   }
 }
