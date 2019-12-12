@@ -2393,49 +2393,6 @@
     "heroes": [
       {
         "abilities": [
-          "ogre_magi_bloodlust"
-        ],
-        "armor": 5,
-        "attackAnimationPoint": 0.3,
-        "attackRange": 1,
-        "attackRate": 1.4,
-        "damageMin": [
-          55,
-          110,
-          220
-        ],
-        "damageMax": [
-          65,
-          130,
-          260
-        ],
-        "displayName": "dac_hero_name_ogre_magi",
-        "dota_unit_name": "npc_dota_hero_ogre_magi",
-        "draftTier": 1,
-        "goldCost": 1,
-        "health": [
-          1600,
-          3200,
-          6000
-        ],
-        "id": 3,
-        "hintWords": [
-          "#dac_hero_hint_melee",
-          "#dac_hero_hint_buffs_allies_attack_speed"
-        ],
-        "keywords": "ogre brutal mage",
-        "magicResist": 0,
-        "maxmana": 0,
-        "model": "models/heroes/ogre_magi/ogre_magi.vmdl",
-        "model_scale": 0.75,
-        "texturename": "ogre_magi",
-        "soundSet": "Hero_OgreMagi",
-        "movespeed": 290,
-        "healthBarOffset": -15,
-        "key": "ogre_magi"
-      },
-      {
-        "abilities": [
           "warlock_shadow_word"
         ],
         "armor": 0,
@@ -2527,6 +2484,49 @@
         "healthBarOffset": 20,
         "aiPassiveAbility": true,
         "key": "bloodseeker"
+      },
+      {
+        "abilities": [
+          "ogre_magi_bloodlust"
+        ],
+        "armor": 5,
+        "attackAnimationPoint": 0.3,
+        "attackRange": 1,
+        "attackRate": 1.4,
+        "damageMin": [
+          55,
+          110,
+          220
+        ],
+        "damageMax": [
+          65,
+          130,
+          260
+        ],
+        "displayName": "dac_hero_name_ogre_magi",
+        "dota_unit_name": "npc_dota_hero_ogre_magi",
+        "draftTier": 2,
+        "goldCost": 2,
+        "health": [
+          1600,
+          3200,
+          6000
+        ],
+        "id": 3,
+        "hintWords": [
+          "#dac_hero_hint_melee",
+          "#dac_hero_hint_buffs_allies_attack_speed"
+        ],
+        "keywords": "ogre brutal mage",
+        "magicResist": 0,
+        "maxmana": 0,
+        "model": "models/heroes/ogre_magi/ogre_magi.vmdl",
+        "model_scale": 0.75,
+        "texturename": "ogre_magi",
+        "soundSet": "Hero_OgreMagi",
+        "movespeed": 290,
+        "healthBarOffset": -15,
+        "key": "ogre_magi"
       }
     ]
   },
@@ -4768,49 +4768,6 @@
     "heroes": [
       {
         "abilities": [
-          "ogre_magi_bloodlust"
-        ],
-        "armor": 5,
-        "attackAnimationPoint": 0.3,
-        "attackRange": 1,
-        "attackRate": 1.4,
-        "damageMin": [
-          55,
-          110,
-          220
-        ],
-        "damageMax": [
-          65,
-          130,
-          260
-        ],
-        "displayName": "dac_hero_name_ogre_magi",
-        "dota_unit_name": "npc_dota_hero_ogre_magi",
-        "draftTier": 1,
-        "goldCost": 1,
-        "health": [
-          1600,
-          3200,
-          6000
-        ],
-        "id": 3,
-        "hintWords": [
-          "#dac_hero_hint_melee",
-          "#dac_hero_hint_buffs_allies_attack_speed"
-        ],
-        "keywords": "ogre brutal mage",
-        "magicResist": 0,
-        "maxmana": 0,
-        "model": "models/heroes/ogre_magi/ogre_magi.vmdl",
-        "model_scale": 0.75,
-        "texturename": "ogre_magi",
-        "soundSet": "Hero_OgreMagi",
-        "movespeed": 290,
-        "healthBarOffset": -15,
-        "key": "ogre_magi"
-      },
-      {
-        "abilities": [
           "razor_plasma_field"
         ],
         "armor": 5,
@@ -4903,6 +4860,49 @@
           "particles/units/heroes/hero_crystalmaiden/maiden_death.vpcf"
         ],
         "key": "crystal_maiden"
+      },
+      {
+        "abilities": [
+          "ogre_magi_bloodlust"
+        ],
+        "armor": 5,
+        "attackAnimationPoint": 0.3,
+        "attackRange": 1,
+        "attackRate": 1.4,
+        "damageMin": [
+          55,
+          110,
+          220
+        ],
+        "damageMax": [
+          65,
+          130,
+          260
+        ],
+        "displayName": "dac_hero_name_ogre_magi",
+        "dota_unit_name": "npc_dota_hero_ogre_magi",
+        "draftTier": 2,
+        "goldCost": 2,
+        "health": [
+          1600,
+          3200,
+          6000
+        ],
+        "id": 3,
+        "hintWords": [
+          "#dac_hero_hint_melee",
+          "#dac_hero_hint_buffs_allies_attack_speed"
+        ],
+        "keywords": "ogre brutal mage",
+        "magicResist": 0,
+        "maxmana": 0,
+        "model": "models/heroes/ogre_magi/ogre_magi.vmdl",
+        "model_scale": 0.75,
+        "texturename": "ogre_magi",
+        "soundSet": "Hero_OgreMagi",
+        "movespeed": 290,
+        "healthBarOffset": -15,
+        "key": "ogre_magi"
       },
       {
         "abilities": [
@@ -8110,9 +8110,9 @@
     ],
     "damage_reduction": [
       30,
-      70
+      60
     ],
-    "debuff_duration": 3,
+    "debuff_duration": 4,
     "initial_damage": [
       80,
       150
@@ -8190,8 +8190,8 @@
         ],
         "displayName": "dac_hero_name_ogre_magi",
         "dota_unit_name": "npc_dota_hero_ogre_magi",
-        "draftTier": 1,
-        "goldCost": 1,
+        "draftTier": 2,
+        "goldCost": 2,
         "health": [
           1600,
           3200,
