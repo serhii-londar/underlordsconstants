@@ -1,5 +1,4 @@
 module.exports = {
-: require(__dirname + '/build/.json'),
 underlords_abilities: require(__dirname + '/build/underlords_abilities.json'),
 underlords_alliances: require(__dirname + '/build/underlords_alliances.json'),
 underlords_heroes: require(__dirname + '/build/underlords_heroes.json'),
